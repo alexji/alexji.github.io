@@ -1,8 +1,9 @@
 ---
 layout: default
+permalink: /blog/
+order: 4
 ---
-
-<div class="home">
+title: Blog
 
   <h1 class="page-heading">Posts</h1>
 
@@ -18,6 +19,3 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
