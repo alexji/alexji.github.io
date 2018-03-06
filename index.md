@@ -19,6 +19,10 @@ My favorite galaxy is Reticulum II.
 <br>
 <sub><sup>Three of these stars are highlighted, showing their large barium content.</sup></sub>
 
+I recently gave a public talk titled "Searching for the First Stars" at Carnegie's Open House. You can watch it on YouTube!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hDpc3qBv3aQ" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 Check out [The Caterpillar Project](http://www.caterpillarproject.org/). Here’s a quick video showing what it’s about. Video production credit to [Brendan Griffen](http://brendangriffen.com/).
 
 <iframe width="625" height="469" src="https://www.youtube.com/embed/g1ti7i7Ay3c?feature=oembed" frameborder="0" allowfullscreen></iframe>
