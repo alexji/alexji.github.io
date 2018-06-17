@@ -23,6 +23,7 @@ order: 3
 
 ### Python
 * [Seaborn: nice statistical data visualization](https://seaborn.pydata.org/)
+* [Pandas cheatsheet](https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb)
 
 ### Scientific Writing
 * [Writing a proposal](http://blogs.discovermagazine.com/cosmicvariance/2012/01/24/unsolicited-advice-xiii-how-to-craft-a-well-argued-proposal/#.WmPV_lQ-fMV)
