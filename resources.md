@@ -9,15 +9,20 @@ order: 3
 * [MOOG](http://www.as.utexas.edu/~chris/moog.html)
 * [My version of MOOG (includes Jen Sobeck's scattering routines)](https://github.com/alexji/moog17scat)
 * [SMHR (under development)](https://github.com/andycasey/smhr)
+* [JINAbase](http://jinabase.pythonanywhere.com/)
+* [Placco Carbon Corrections](http://vplacco.pythonanywhere.com/)
+* NLTE grids by [Bergemann et al.](http://nlte.mpia.de/), [Lind et al.](http://inspect-stars.com/), [Mashonkina et al.](http://spectrum.inasan.ru/nLTE/)
+* Atomic Data from [NIST](https://physics.nist.gov/PhysRefData/ASD/lines_form.html), [VALD](http://vald.astro.univie.ac.at/~vald3/php/vald.php) (requires registration), [Kurucz](http://kurucz.harvard.edu/linelists.html) (a version of this is being maintained [here](https://github.com/vmplacco/linemake) by Vini Placco)
 
 ### Simulation analysis
 * [Rockstar halo finder with iterative unbinding](https://bitbucket.org/alexji/rockstar)
 * [Caterpillar simulations github repository](https://github.com/caterpillarproject/)
 * [Caterpillar simulations website and documentation](http://www.caterpillarproject.org/)
 
-### Latex Links
-* [Detexify](http://detexify.kirelabs.org/classify.html): draw symbols and get the corresponding Latex command
-* [Table generator](https://www.tablesgenerator.com/)
+### Movies I like
+* [JINA movies (r-process)](http://www.jinaweb.org/html/movies.html), also see [Skynet](http://jonaslippuner.com/research/skynet/) by Jonas Lippuner
+* [Discovery history of Milky Way Satellites](http://marcelpawlowski.com/wp-content/uploads3/MWsatellites_discoveries.mp4) by Marcel Pawlowski
+
 
 ### Practical Computing
 * [UNIX Cheat Sheet](/UNIXCheatSheet.pdf)
@@ -35,6 +40,16 @@ order: 3
 * [Pandas cheatsheet](https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb)
 * [Scipy lectures](https://www.scipy-lectures.org/)
 
+### Latex Links
+* [Detexify](http://detexify.kirelabs.org/classify.html): draw symbols and get the corresponding Latex command
+* [Table generator](https://www.tablesgenerator.com/)
+
 ### Scientific Writing
-* [Writing a proposal](http://blogs.discovermagazine.com/cosmicvariance/2012/01/24/unsolicited-advice-xiii-how-to-craft-a-well-argued-proposal/#.WmPV_lQ-fMV)
+* [Writing a proposal](http://blogs.discovermagazine.com/cosmicvariance/2012/01/24/unsolicited-advice-xiii-how-to-craft-a-well-argued-proposal/#.WmPV_lQ-fMV) by Julianne Dalcanton
+* [Paper writing](https://lavinia.as.arizona.edu/~gbesla/ASTR_520_Spring2017_files/Lecture21.pdf) by Julianne Dalcanton
 * [Scientific Writing Workshop (Carnegie Summer Students 2017)](/scientific-writing-summer2017.pdf)
+
+### Las Campanas Observatory
+* [LCO Weather](http://weather.lco.cl/)
+* [LCO Telescope Schedule](http://www.lco.cl/telescopes-information/telescope-schedules/)
+* [Fun with scraping](https://github.com/alexji/scrapetelescopeschedule)
