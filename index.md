@@ -19,7 +19,10 @@ My favorite galaxy is Reticulum II.
 <br>
 <sub><sup>Three of these stars are highlighted, showing their large barium content.</sup></sub>
 
-I recently gave a public talk titled "Searching for the First Stars" at Carnegie's Open House. You can watch it on YouTube!
+I recently gave a talk at the Huntington Libraries about "Glimpses of the Cosmic Dawn", which you can watch here:
+<iframe id="ls_embed_1557265625" src="https://livestream.com/accounts/14570535/events/8566659/videos/188883055/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+
+In 2017 I gave a talk titled "Searching for the First Stars" at the Carnegie Observatories Open House. You can watch it on YouTube!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDpc3qBv3aQ" frameborder="0" gesture="media" allowfullscreen></iframe>
 
