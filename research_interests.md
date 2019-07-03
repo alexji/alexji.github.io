@@ -20,9 +20,9 @@ The ashes of these stars are preserved in old ("metal-poor") stars.
 The _very_ most iron-poor stars are very likely to be true second-generation stars. There are only ~7 of these stars known, and I've helped chase down and study the origin of two of them ([Star 1](https://arxiv.org/abs/1507.01973), [Star 2](https://arxiv.org/abs/1810.01228)).
 
 On the theoretical side, I have studied whether unique abundance signatures of the first stars can be preserved in typical early star forming environments ([paper](https://arxiv.org/abs/1508.06137), [some related code](https://github.com/alexji/SN_model)).
-[//]: # (In short, they’re preserved only by the oldest stars, as the signatures tend to get wiped out after even a single additional generation of star formation. Even the oldest stars are complicated, tracing the combined signatures from several stars and requiring knowledge of the star formation environment to extract quantitative conclusions.)
+<!--[//]: # (In short, they’re preserved only by the oldest stars, as the signatures tend to get wiped out after even a single additional generation of star formation. Even the oldest stars are complicated, tracing the combined signatures from several stars and requiring knowledge of the star formation environment to extract quantitative conclusions.)-->
 I have looked at the critical metallicity for the transition from the top-heavy Population III IMF to today’s bottom-heavy IMF. ([paper](https://arxiv.org/abs/1307.2239), [code](https://github.com/alexji/dust))
-[//]: # (We proposed an observational criterion to assess the role of dust thermal cooling in creating the first low-mass stars. )
+<!--[//]: # (We proposed an observational criterion to assess the role of dust thermal cooling in creating the first low-mass stars. )-->
 As part of the [Caterpillar project](http://www.caterpillarproject.org), I have investigated how to use metal-poor stars to understand chemical abundances ([paper](https://arxiv.org/abs/1801.05044)) and tracing them to the present day ([paper 1](https://arxiv.org/abs/1611.00759); [paper 2](https://arxiv.org/abs/1712.03967)).
 
 ## Relics of the first galaxies

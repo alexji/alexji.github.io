@@ -23,7 +23,8 @@ My favorite galaxy is Reticulum II.
 
 [Short Interview with MIT](http://news.mit.edu/2016/3-q-galaxy-origin-cosmos-heaviest-elements-0321)
 
-<img src="img/RetII_3Q_v3_lowres.png" height="300" width="300" alt="The nine brightest stars in the r-process galaxy Reticulum II are circled. Three of these stars are highlighted, showing their large barium content." />
+<!--<img src="img/RetII_3Q_v3_lowres.png" height="300" width="300" alt="The nine brightest stars in the r-process galaxy Reticulum II are circled. Three of these stars are highlighted, showing their large barium content." />-->
+![The nine brightest stars in the r-process galaxy Reticulum II are circled. Three of these stars are highlighted, showing their large barium content.](/img/RetII_3Q_v3_lowres.png)
 
 <sub><sup>The nine brightest stars in the r-process galaxy Reticulum II are circled. </sup></sub>
 <br>
