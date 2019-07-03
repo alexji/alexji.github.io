@@ -11,7 +11,7 @@ I am a near-field cosmologist. I study nearby stars and galaxies to understand t
 The first stars and galaxies formed in the first billion years of our universe (at redshifts z > 6).
 This early epoch is one of the last unexplored frontiers in the history of our universe.
 
-## Relics of the first stars
+### Relics of the first stars
 I study the chemical composition of metal-poor stars to learn about the first generation of stars.
 The _very_ first stars in our universe form in a universe without heavy elements.
 As a result, they were probably unusually massive, which should be reflected in the nucleosynthetic yields of elements created when these stars explode.
@@ -25,7 +25,7 @@ I have looked at the critical metallicity for the transition from the top-heavy 
 <!--[//]: # (We proposed an observational criterion to assess the role of dust thermal cooling in creating the first low-mass stars. )-->
 As part of the [Caterpillar project](http://www.caterpillarproject.org), I have investigated how to use metal-poor stars to understand chemical abundances ([paper](https://arxiv.org/abs/1801.05044)) and tracing them to the present day ([paper 1](https://arxiv.org/abs/1611.00759); [paper 2](https://arxiv.org/abs/1712.03967)).
 
-## Relics of the first galaxies
+### Relics of the first galaxies
 Much of my research focuses on observing and interpreting the chemical content of stars in surviving relics of the first galaxies.
 These are very faint galaxies (creatively termed "ultra-faint" dwarf galaxies).
 I think that ultra-faint dwarf galaxies are the most fascinating type of object in the universe.
