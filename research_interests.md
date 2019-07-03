@@ -55,6 +55,8 @@ I hypothesized [here](https://arxiv.org/abs/1607.07447) that such stars might ex
 Graduate student [Kaley Brauer](http://www.mit.edu/~kbrauer/) and I have since constructed models showing that only half of such stars originate just from the ultra-faint dwarf galaxies, with the rest likely explainable by larger disrupted satellite galaxies [(paper)](https://arxiv.org/abs/1809.05539).
 I continue to pursue these questions with the R-Process Alliance.
 
+I have also used the Milky Way's r-process stars to set baseline expectations for upcoming gravitational wave followup of neutron star mergers ([paper](https://arxiv.org/abs/1905.01814)).
+
 ## Milky Way Assembly and Substructure
 
 One of the biggest challenges when studying the local universe is that we only get one local universe, but our cosmological model can only predict statistical distributions of physical properties. As a result, we must run a lot of simulations to disentangle observations specific to our corner of the universe from general facts about cosmology.
