@@ -6,7 +6,7 @@ order: 1
 ---
 I am a near-field cosmologist. I study nearby stars and galaxies to understand the first stars and galaxies, the origin of the elements, the history of our galaxy, and the nature of dark matter.
 
-# The First Stars and Galaxies
+## The First Stars and Galaxies
 
 The first stars and galaxies formed in the first billion years of our universe (at redshifts z > 6).
 This early epoch is one of the last unexplored frontiers in the history of our universe.
@@ -40,7 +40,7 @@ We're still in the early stages of this process, only having looked at 15 of the
 So far, I have studied five of these galaxies: [Reticulum II](https://www.nature.com/articles/nature17425), [Tucana II](https://arxiv.org/abs/1609.02915), [Bootes II](https://arxiv.org/abs/1510.07632), and [Grus I and Triangulum II](https://arxiv.org/abs/1809.02182).
 Stay tuned for many more coming soon!
 
-# Origin of the heaviest elements
+## Origin of the heaviest elements
 The heaviest elements in the periodic table cannot be created through nuclear fusion. Instead, they are synthesized through neutron-capture processes, a "slow" and a "rapid" process.
 The origin of the rapid process (or "r-process") has been a long-standing astrophysical mystery, but recent evidence has slowly coalesced around neutron star mergers as the likely dominant source.
 
@@ -55,7 +55,7 @@ I hypothesized [here](https://arxiv.org/abs/1607.07447) that such stars might ex
 Graduate student [Kaley Brauer](http://www.mit.edu/~kbrauer/) and I have since constructed models showing that only half of such stars originate just from the ultra-faint dwarf galaxies, with the rest likely explainable by larger disrupted satellite galaxies [(paper)](https://arxiv.org/abs/1809.05539).
 I continue to pursue these questions with the R-Process Alliance.
 
-# Milky Way Assembly and Substructure
+## Milky Way Assembly and Substructure
 
 One of the biggest challenges when studying the local universe is that we only get one local universe, but our cosmological model can only predict statistical distributions of physical properties. As a result, we must run a lot of simulations to disentangle observations specific to our corner of the universe from general facts about cosmology.
 I’m a core member of the [Caterpillar project](http://www.caterpillarproject.org/), a large suite of cosmological zoom-in simulations of Milky Way mass galaxies. These will help us understand the formation history of our Milky Way and potentially constrain our models of dark matter. I’ve played a large role in running and postprocessing these simulations, which has taken millions of CPU-hours. I led the post-processing effort for Caterpillar, and one of my main contributions was an adaptation of the halo finder ROCKSTAR that implements iterative unbinding ([link here](https://bitbucket.org/alexji/rockstar)). ([Caterpillar flagship paper](https://arxiv.org/abs/1509.01255))
