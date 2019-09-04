@@ -53,3 +53,6 @@ order: 3
 * [LCO Weather](http://weather.lco.cl/)
 * [LCO Telescope Schedule](http://www.lco.cl/telescopes-information/telescope-schedules/)
 * [Fun with scraping](https://github.com/alexji/scrapetelescopeschedule)
+
+### Advice
+* [Hamming: You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
