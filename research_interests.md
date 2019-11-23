@@ -8,7 +8,7 @@ I am a near-field cosmologist. I study nearby stars and galaxies to understand t
 
 ## The First Stars and Galaxies
 
-The first stars and galaxies formed in the first billion years of our universe (at redshifts z > 6).
+The first stars and galaxies formed in the first billion years of our universe.
 This early epoch is one of the last unexplored frontiers in the history of our universe.
 
 ### Relics of the first stars
@@ -26,8 +26,7 @@ I have looked at the critical metallicity for the transition from the top-heavy 
 As part of the [Caterpillar project](http://www.caterpillarproject.org), I have investigated how to use metal-poor stars to understand chemical abundances ([paper](https://arxiv.org/abs/1801.05044)) and tracing them to the present day ([paper 1](https://arxiv.org/abs/1611.00759); [paper 2](https://arxiv.org/abs/1712.03967)).
 
 ### Relics of the first galaxies
-Much of my research focuses on observing and interpreting the chemical content of stars in surviving relics of the first galaxies.
-These are very faint galaxies (creatively termed "ultra-faint" dwarf galaxies).
+Much of my research focuses on observing and interpreting the chemical content of stars in surviving relics of the first galaxies, the so-called "ultra-faint" dwarf galaxies.
 I think that ultra-faint dwarf galaxies are the most fascinating type of object in the universe.
 They have only a few thousand stars (fewer stars than many individual star clusters!), and yet they sit in dark matter halos and show evidence for extended star formation.
 But not too extended: all their stars formed in just the first 1-2 billion years of the universe's history.
@@ -51,15 +50,17 @@ A more detailed companion paper can be found in [ApJ](https://arxiv.org/abs/1607
 Since this galaxy's stars preserve a pure r-process signature, I have also used detailed abundances to understand the nature of neutron star merger ejecta [(paper)](https://arxiv.org/abs/1802.07272).
 
 We've long known that similar r-process stars can be found in the Milky Way's stellar halo (e.g. [here](https://arxiv.org/abs/1706.02934), [here](https://arxiv.org/abs/1806.00645), [here](https://arxiv.org/abs/1807.03734), and more).
-I hypothesized [here](https://arxiv.org/abs/1607.07447) that such stars might exclusively originate from ultra-faint dwarf galaxies.
-Graduate student [Kaley Brauer](http://www.mit.edu/~kbrauer/) and I have since constructed models showing that only half of such stars originate just from the ultra-faint dwarf galaxies, with the rest likely explainable by larger disrupted satellite galaxies [(paper)](https://arxiv.org/abs/1809.05539).
+[I hypothesized](https://arxiv.org/abs/1607.07447) that such stars might exclusively originate from ultra-faint dwarf galaxies.
+Graduate student [Kaley Brauer](http://www.mit.edu/~kbrauer/) and I have since constructed models showing that about half of such stars originate just from the ultra-faint dwarf galaxies, with the rest likely explainable by larger disrupted satellite galaxies [(paper)](https://arxiv.org/abs/1809.05539).
 I continue to pursue these questions with the R-Process Alliance.
 
-I have also used the Milky Way's r-process stars to set baseline expectations for upcoming gravitational wave followup of neutron star mergers ([paper](https://arxiv.org/abs/1905.01814)).
+We have now [directly detected](https://arxiv.org/abs/1710.05443) r-process elements made in a neutron star merger coincident with a [gravitational wave detection](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101).
+This is a new and exciting way to understand the r-process.
+Using the Milky Way's r-process stars, I have made some predictions for gravitational wave followup of neutron star mergers ([paper](https://arxiv.org/abs/1905.01814)).
 
 ## Milky Way Assembly and Substructure
 
 One of the biggest challenges when studying the local universe is that we only get one local universe, but our cosmological model can only predict statistical distributions of physical properties. As a result, we must run a lot of simulations to disentangle observations specific to our corner of the universe from general facts about cosmology.
 I’m a core member of the [Caterpillar project](http://www.caterpillarproject.org/), a large suite of cosmological zoom-in simulations of Milky Way mass galaxies. These will help us understand the formation history of our Milky Way and potentially constrain our models of dark matter. I’ve played a large role in running and postprocessing these simulations, which has taken millions of CPU-hours. I led the post-processing effort for Caterpillar, and one of my main contributions was an adaptation of the halo finder ROCKSTAR that implements iterative unbinding ([link here](https://bitbucket.org/alexji/rockstar)). ([Caterpillar flagship paper](https://arxiv.org/abs/1509.01255))
 
-I also study stars in stellar streams with the [S5 Survey](https://s5collab.github.io/).
+More recently, I have become interested in stellar streams. These are galaxies and star clusters that are in the process of being tidally disrupted by the Milky Way. I lead the high-resolution abundance analysis for the [S5 Survey](https://s5collab.github.io/).

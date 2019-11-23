@@ -5,6 +5,15 @@ permalink: /outreach/
 order: 4
 ---
 
+# A hyperfast runaway star
+
+The [S5 survey](https://s5collab.github.io/) serendipitously found the first known star to be kicked out from our galaxy's central black hole. Here are a collection of news articles from
+[Carnegie](https://carnegiescience.edu/node/2570), 
+[the New York Times](https://www.nytimes.com/2019/11/14/science/stars-black-hole-milky-way.html),
+[CBS News](https://www.cbsnews.com/amp/news/black-hole-supermassive-black-hole-throws-star-out-of-milky-way-galaxy-3point7-million-mph-today/),
+and
+[Space Australia](https://spaceaustralia.com/feature/supermassive-black-hole-ejects-hyper-velocity-star).
+
 # Glimpses of the Cosmic Dawn
 I recently gave a talk at the Huntington Libraries about "Glimpses of the Cosmic Dawn", which you can watch here:
 <iframe id="ls_embed_1558501032" src="https://livestream.com/accounts/14570535/events/8566659/videos/188883055/player?width=640&height=360&enableInfo=false&defaultDrawer=&autoPlay=false&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
