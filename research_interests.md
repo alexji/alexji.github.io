@@ -4,12 +4,30 @@ title: Research Interests
 permalink: /research_interests/
 order: 1
 ---
-I am a near-field cosmologist. I study nearby stars and galaxies to understand the first stars and galaxies, the origin of the elements, the history of our galaxy, and the nature of dark matter.
+I am a near-field cosmologist.
+I study nearby stars and galaxies to understand the first stars and galaxies, the origin of the elements, the history of our galaxy, and the nature of dark matter.
 
 ## The First Stars and Galaxies
 
 The first stars and galaxies formed in the first billion years of our universe.
 This early epoch is one of the last unexplored frontiers in the history of our universe.
+
+### Relics of the first galaxies
+Much of my research focuses on observing and interpreting the chemical content of stars in surviving relics of the first galaxies, the so-called ["ultra-faint" dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2019ARA%26A..57..375S/abstract).
+I think that ultra-faint dwarf galaxies are the most fascinating type of object in the universe.
+They have only a few thousand stars (fewer stars than many individual star clusters!), and yet they sit in dark matter halos and show evidence for extended star formation.
+But not too extended: all their stars formed in just the first 1-2 billion years of the universe's history.
+As a result, each ultra-faint dwarf galaxy is a repository of ancient stars with a common formation history.
+
+I like to think of each ultra-faint dwarf galaxy as a small experiment:
+the universe took lots of little galaxies, let them form stars for a short time, then turned them off and left them lying around for us to study.
+We're still in the early stages of this process, only having looked at ~20 of the hundreds of ultra-faint dwarf galaxies expected around our Milky Way.
+So far, I have studied seven of these galaxies:
+[Reticulum II](https://www.nature.com/articles/nature17425),
+[Tucana II](https://arxiv.org/abs/1609.02915),
+[Bootes II](https://arxiv.org/abs/1510.07632),
+[Grus I and Triangulum II](https://arxiv.org/abs/1809.02182),
+and [Carina II and III](https://arxiv.org/abs/1912.04963).
 
 ### Relics of the first stars
 I study the chemical composition of metal-poor stars to learn about the first generation of stars.
@@ -17,27 +35,15 @@ The _very_ first stars in our universe form in a universe without heavy elements
 As a result, they were probably unusually massive, which should be reflected in the nucleosynthetic yields of elements created when these stars explode.
 The ashes of these stars are preserved in old ("metal-poor") stars.
 
-The _very_ most iron-poor stars are very likely to be true second-generation stars. There are only ~7 of these stars known, and I've helped chase down and study the origin of two of them ([Star 1](https://arxiv.org/abs/1507.01973), [Star 2](https://arxiv.org/abs/1810.01228)).
+The _very_ most iron-poor stars are very likely to be true second-generation stars.
+There are only ~7 of these stars known.
+I've helped chase down and study the origin of two of them ([Star 1](https://arxiv.org/abs/1507.01973), [Star 2](https://arxiv.org/abs/1810.01228)).
 
 On the theoretical side, I have studied whether unique abundance signatures of the first stars can be preserved in typical early star forming environments ([paper](https://arxiv.org/abs/1508.06137), [some related code](https://github.com/alexji/SN_model)).
 <!--[//]: # (In short, they’re preserved only by the oldest stars, as the signatures tend to get wiped out after even a single additional generation of star formation. Even the oldest stars are complicated, tracing the combined signatures from several stars and requiring knowledge of the star formation environment to extract quantitative conclusions.)-->
 I have looked at the critical metallicity for the transition from the top-heavy Population III IMF to today’s bottom-heavy IMF. ([paper](https://arxiv.org/abs/1307.2239), [code](https://github.com/alexji/dust))
 <!--[//]: # (We proposed an observational criterion to assess the role of dust thermal cooling in creating the first low-mass stars. )-->
 As part of the [Caterpillar project](http://www.caterpillarproject.org), I have investigated how to use metal-poor stars to understand chemical abundances ([paper](https://arxiv.org/abs/1801.05044)) and tracing them to the present day ([paper 1](https://arxiv.org/abs/1611.00759); [paper 2](https://arxiv.org/abs/1712.03967)).
-
-### Relics of the first galaxies
-Much of my research focuses on observing and interpreting the chemical content of stars in surviving relics of the first galaxies, the so-called "ultra-faint" dwarf galaxies.
-I think that ultra-faint dwarf galaxies are the most fascinating type of object in the universe.
-They have only a few thousand stars (fewer stars than many individual star clusters!), and yet they sit in dark matter halos and show evidence for extended star formation.
-But not too extended: all their stars formed in just the first 1-2 billion years of the universe's history.
-As a result, each ultra-faint dwarf galaxy is a repository of ancient stars with a common formation history, and there's
-dozens of these little galaxies surrounding our Milky Way.
-
-I like to think of each ultra-faint dwarf galaxy as a small experiment:
-the universe took lots of little galaxies, let them form stars for a short time, then turned them off and left them lying around for us to study.
-We're still in the early stages of this process, only having looked at 15 of the dozens of ultra-faint dwarf galaxies.
-So far, I have studied five of these galaxies: [Reticulum II](https://www.nature.com/articles/nature17425), [Tucana II](https://arxiv.org/abs/1609.02915), [Bootes II](https://arxiv.org/abs/1510.07632), and [Grus I and Triangulum II](https://arxiv.org/abs/1809.02182).
-Stay tuned for many more coming soon!
 
 ## Origin of the heaviest elements
 The heaviest elements in the periodic table cannot be created through nuclear fusion. Instead, they are synthesized through neutron-capture processes, a "slow" and a "rapid" process.
@@ -60,7 +66,12 @@ Using the Milky Way's r-process stars, I have made some predictions for gravitat
 
 ## Milky Way Assembly and Substructure
 
-One of the biggest challenges when studying the local universe is that we only get one local universe, but our cosmological model can only predict statistical distributions of physical properties. As a result, we must run a lot of simulations to disentangle observations specific to our corner of the universe from general facts about cosmology.
+One of the biggest challenges of near-field cosmology is that we only get one nearby universe, but our cosmological model only predicts statistical distributions of physical properties.
+As a result, we must run a lot of simulations to disentangle observations specific to our corner of the universe from general facts about cosmology.
 I’m a core member of the [Caterpillar project](http://www.caterpillarproject.org/), a large suite of cosmological zoom-in simulations of Milky Way mass galaxies. These will help us understand the formation history of our Milky Way and potentially constrain our models of dark matter. I’ve played a large role in running and postprocessing these simulations, which has taken millions of CPU-hours. I led the post-processing effort for Caterpillar, and one of my main contributions was an adaptation of the halo finder ROCKSTAR that implements iterative unbinding ([link here](https://bitbucket.org/alexji/rockstar)). ([Caterpillar flagship paper](https://arxiv.org/abs/1509.01255))
 
-More recently, I have become interested in stellar streams. These are galaxies and star clusters that are in the process of being tidally disrupted by the Milky Way. I lead the high-resolution abundance analysis for the [S5 Survey](https://s5collab.github.io/).
+I am also interested in other denizens of our Milky Way's halo.
+I have recently become particularly interested in stellar streams.
+These are galaxies and star clusters that are in the process of being tidally disrupted by the Milky Way.
+I lead the high-resolution abundance analysis for the [S5 Survey](https://s5collab.github.io/).
+

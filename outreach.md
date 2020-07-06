@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach
+title: Outreach/News
 permalink: /outreach/
 order: 4
 ---
@@ -15,7 +15,7 @@ and
 [Space Australia](https://spaceaustralia.com/feature/supermassive-black-hole-ejects-hyper-velocity-star).
 
 # Glimpses of the Cosmic Dawn
-I recently gave a talk at the Huntington Libraries about "Glimpses of the Cosmic Dawn", which you can watch here:
+In 2019 I gave a talk at the Huntington Libraries about "Glimpses of the Cosmic Dawn", which you can watch here:
 <iframe id="ls_embed_1558501032" src="https://livestream.com/accounts/14570535/events/8566659/videos/188883055/player?width=640&height=360&enableInfo=false&defaultDrawer=&autoPlay=false&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
 
 # Searching for the First Stars

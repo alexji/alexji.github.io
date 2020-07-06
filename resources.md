@@ -8,7 +8,7 @@ order: 3
 ### Spectroscopy
 * [MIKE Observing Instructions](https://github.com/alexji/mikerun)
 * [MOOG](http://www.as.utexas.edu/~chris/moog.html)
-* [My version of MOOG (includes Jen Sobeck's scattering routines)](https://github.com/alexji/moog17scat)
+* [My version of MOOG 2017 (includes Jen Sobeck's scattering routines)](https://github.com/alexji/moog17scat)
 * [SMHR (under development)](https://github.com/andycasey/smhr)
 * [JINAbase](http://jinabase.pythonanywhere.com/)
 * [Placco Carbon Corrections](http://vplacco.pythonanywhere.com/)
@@ -33,7 +33,7 @@ order: 3
 * Adding an [SSH key on github](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/), also see [this link](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
 
 ### Python
-* [Alex's python modules](https://github.com/alexji/moog17scat) for science analysis
+* [Alex's python modules](https://github.com/alexji/alexmods) for science analysis
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake Vanderplas [(Amazon link)](https://www.amazon.com/_/dp/1491912057)
 * [Astropy](http://www.astropy.org/) (and [github repo](https://github.com/astropy/astropy)).
 * [Seaborn: nice statistical data visualization](https://seaborn.pydata.org/)
