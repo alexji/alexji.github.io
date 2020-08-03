@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /blog/
-order: 4
 ---
 title: Blog
 

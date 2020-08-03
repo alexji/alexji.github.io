@@ -2,7 +2,7 @@
 layout: page
 title: Outreach/News
 permalink: /outreach/
-order: 4
+order: 5
 ---
 
 # A hyperfast runaway star
