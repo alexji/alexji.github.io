@@ -5,6 +5,20 @@ permalink: /outreach/
 order: 5
 ---
 
+# A primitive stellar stream
+
+The [S5 survey](https://s5collab.github.io/) has discovered the most metal-poor known globular cluster in the Milky Way.
+It is being actively tidally shredded by the Milky Way.
+A collection of news articles from
+[Carnegie](https://carnegiescience.edu/news/stellar-archaeology-reveals-remnant-ancient-globular-cluster-thats-last-its-kind), 
+[VICE](https://www.vice.com/en_us/article/k7qp3a/scientists-found-an-ancient-graveyard-of-anomalous-stars-in-our-galaxys-halo),
+[Sydney Morning Herald](https://www.smh.com.au/national/australian-scientists-discover-dying-building-block-of-milky-way-20200729-p55gin.html),
+[Sky and Telescope](https://skyandtelescope.org/astronomy-news/remains-of-an-ancient-star-cluster-revealed/),
+[Chicago Tribune (in Spanish)](https://www.chicagotribune.com/espanol/entretenimiento/sns-es-arqueologia-estelar-via-lactea-cumulo-globular-ciencia-20200729-5dswqmg72vbvvgfrjwhcdil7ke-story.html),
+and
+[CNET](https://www.cnet.com/news/astronomers-find-a-dying-remnant-from-star-cluster-that-shouldnt-have-existed/).
+
+
 # A hyperfast runaway star
 
 The [S5 survey](https://s5collab.github.io/) serendipitously found the first known star to be kicked out from our galaxy's central black hole. Here are a collection of news articles from
