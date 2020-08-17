@@ -17,7 +17,7 @@ A collection of news articles from
 [Chicago Tribune (in Spanish)](https://www.chicagotribune.com/espanol/entretenimiento/sns-es-arqueologia-estelar-via-lactea-cumulo-globular-ciencia-20200729-5dswqmg72vbvvgfrjwhcdil7ke-story.html),
 and
 [CNET](https://www.cnet.com/news/astronomers-find-a-dying-remnant-from-star-cluster-that-shouldnt-have-existed/).
-
+[The Galactic Times](https://podcasts.apple.com/us/podcast/ep-4-august-5-2020-over-solar-systems-horizon-phoenix/id1519876423?i=1000487330923) produced a podcast about the Phoenix stream.
 
 # A hyperfast runaway star
 
