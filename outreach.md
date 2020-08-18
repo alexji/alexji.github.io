@@ -28,6 +28,11 @@ The [S5 survey](https://s5collab.github.io/) serendipitously found the first kno
 and
 [Space Australia](https://spaceaustralia.com/feature/supermassive-black-hole-ejects-hyper-velocity-star).
 
+# The First Stars, Like, Ever
+In 2020 I gave an online talk at Astronomy on Tap with [Dr. Brittany Kamai](https://sites.google.com/site/brittanykamai). You can watch it on YouTube!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B8W-0VzFa90?start=2691" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Glimpses of the Cosmic Dawn
 In 2019 I gave a talk at the Huntington Libraries about "Glimpses of the Cosmic Dawn", which you can watch here:
 <iframe id="ls_embed_1558501032" src="https://livestream.com/accounts/14570535/events/8566659/videos/188883055/player?width=640&height=360&enableInfo=false&defaultDrawer=&autoPlay=false&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
