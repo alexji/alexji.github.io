@@ -12,6 +12,6 @@ In 2021, I will move to the University of Chicago as an Assistant Professor in t
 
 * The Kavli Institute for Cosmological Physics has a new prize fellowship in observational astrophysics: [Brinson Fellowship](https://jobregister.aas.org/ad/c72d4595)
 
-* Graduate students applying to University of Chicago in 2021 interested in near-field cosmology or stellar spectroscopy should contact me. The GRE is not accepted this application cycle. Fee waivers are [available](https://www.btaa.org/resources-for/students/freeapp/introduction).
+* Graduate students applying to [University of Chicago Astronomy & Astrophysics](https://astrophysics.uchicago.edu/academics/graduate-programs/) in 2021 interested in near-field cosmology or stellar spectroscopy should contact me. Advice on how to apply is [at this link](https://astrophysics.uchicago.edu/academics/graduate-programs/how-to-apply/). The GRE is not accepted this application cycle. Fee waivers are [available](https://www.btaa.org/resources-for/students/freeapp/introduction).
 
 ![Alex Ji](/img/alexji2.jpg)
