@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Postdoctoral Scholar in Nuclear Astrophysics or Near-Field Cosmology
 permalink: /postdoc2021/
 ---
+
+# Postdoctoral Scholar in Nuclear Astrophysics or Near-Field Cosmology
 
 The Department of Astronomy and Astrophysics at the University of
 Chicago invites applications for a postdoctoral scholar to work with
