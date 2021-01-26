@@ -45,7 +45,7 @@ order: 4
 * [Table generator](https://www.tablesgenerator.com/)
 
 ### Scientific Writing
-* [Writing a proposal](http://blogs.discovermagazine.com/cosmicvariance/2012/01/24/unsolicited-advice-xiii-how-to-craft-a-well-argued-proposal/#.WmPV_lQ-fMV) by Julianne Dalcanton
+* [Writing a proposal](https://www.discovermagazine.com/the-sciences/unsolicited-advice-xiii-how-to-craft-a-well-argued-proposal) by Julianne Dalcanton
 * [Paper writing](https://lavinia.as.arizona.edu/~gbesla/ASTR_520_Spring2017_files/Lecture21.pdf) by Julianne Dalcanton
 * [Scientific Writing Workshop (Carnegie Summer Students 2017)](/scientific-writing-summer2017.pdf)
 
