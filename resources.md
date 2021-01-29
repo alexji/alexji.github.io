@@ -39,6 +39,7 @@ order: 4
 * [Seaborn: nice statistical data visualization](https://seaborn.pydata.org/)
 * [Pandas cheatsheet](https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb)
 * [Scipy lectures](https://www.scipy-lectures.org/)
+* [Bayesian Sampling in Python](https://github.com/alexji/cda-samplers)
 
 ### Latex Links
 * [Detexify](http://detexify.kirelabs.org/classify.html): draw symbols and get the corresponding Latex command
