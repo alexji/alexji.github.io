@@ -31,6 +31,7 @@ order: 4
 * [Astrobetter setting up a new Mac](http://www.astrobetter.com/wiki/Setup+a+New+Mac+for+Astronomy). My defaults are: [XQuartz](https://www.xquartz.org/), XCode command line utils, [macports](https://www.macports.org/), and [homebrew](https://brew.sh/); emacs, [AquaMacs](http://aquamacs.org/), [Sublime 2](https://www.sublimetext.com/2); [Anaconda (python 3)](https://conda.io/docs/user-guide/install/download.html).
 * [ESO Eclipse](https://www.eso.org/sci/software/eclipse/) (almost exclusively for `dfits` and `fitsort`)
 * Adding an [SSH key on github](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/), also see [this link](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
+* [Making a website](https://astrosites.github.io/index.html)
 
 ### Python
 * [Alex's python modules](https://github.com/alexji/alexmods) for science analysis
@@ -58,4 +59,6 @@ order: 4
 
 ### Advice
 * [Hamming: You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-* [11 Rules for Meetings](https://www.nature.com/articles/d41586-019-02295-z?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_2_JNC_Nature)
+* [11 Rules for Meetings](https://www.nature.com/articles/d41586-019-02295-z)
+* [The Good Talk Talk by Natasha Batalha](https://natashabatalha.github.io/GoodTalkTalk.pdf)
+* [How to be a good graduate student](https://www.discovermagazine.com/the-sciences/unsolicited-advice-iv-how-to-be-a-good-graduate-student)

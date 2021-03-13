@@ -62,7 +62,7 @@ I continue to pursue these questions with the R-Process Alliance.
 
 We have now [directly detected](https://arxiv.org/abs/1710.05443) r-process elements made in a neutron star merger coincident with a [gravitational wave detection](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101).
 This is a new and exciting way to understand the r-process.
-Using the Milky Way's r-process stars, I have made some predictions for gravitational wave followup of neutron star mergers ([paper](https://arxiv.org/abs/1905.01814)).
+Using the Milky Way's r-process stars, I have made predictions for optical followup of neutron star mergers detected through gravitational waves ([paper](https://arxiv.org/abs/1905.01814)).
 
 ## Milky Way Assembly and Substructure
 
@@ -70,8 +70,7 @@ One of the biggest challenges of near-field cosmology is that we only get one ne
 As a result, we must run a lot of simulations to disentangle observations specific to our corner of the universe from general facts about cosmology.
 I’m a core member of the [Caterpillar project](http://www.caterpillarproject.org/), a large suite of cosmological zoom-in simulations of Milky Way mass galaxies. These will help us understand the formation history of our Milky Way and potentially constrain our models of dark matter. I’ve played a large role in running and postprocessing these simulations, which has taken millions of CPU-hours. I led the post-processing effort for Caterpillar, and one of my main contributions was an adaptation of the halo finder ROCKSTAR that implements iterative unbinding ([link here](https://bitbucket.org/alexji/rockstar)). ([Caterpillar flagship paper](https://arxiv.org/abs/1509.01255))
 
-I am also interested in other denizens of our Milky Way's halo.
-I have recently become particularly interested in stellar streams.
+I am also interested in other denizens of our Milky Way's halo. I have recently become particularly interested in stellar streams.
 These are galaxies and star clusters that are in the process of being tidally disrupted by the Milky Way.
-I lead the high-resolution abundance analysis for the [S5 Survey](https://s5collab.github.io/).
-
+I lead the high-resolution abundance analysis for the [S5 Survey](https://s5collab.github.io/) ([paper](https://arxiv.org/abs/2008.07568)).
+More recently, I co-chair the Milky Way Halo Working group as part of [SDSS-V](https://www.sdss5.org/).

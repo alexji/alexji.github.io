@@ -5,6 +5,14 @@ permalink: /outreach/
 order: 5
 ---
 
+# An extended halo around an ancient dwarf galaxy
+[Anirudh Chiti](http://www.mit.edu/~achiti/) led a paper detecting the very outskirts of the dwarf galaxy Tucana II.
+This is the furthest out that stars have been detected around a tiny galaxy. The paper is published in [Nature Astronomy](https://rdcu.be/ceAbh).
+A collection of press from
+[Carnegie](https://carnegiescience.edu/node/2706),
+[MIT](https://news.mit.edu/2021/astronomers-detect-extended-dark-matter-halo-ancient-dwarf-galaxy-0201),
+[The Guardian](https://www.theguardian.com/science/2021/feb/01/discovery-of-outer-stars-of-dwarf-galaxy-sheds-new-light-on-dark-matter).
+
 # A primitive stellar stream
 
 The [S5 survey](https://s5collab.github.io/) has discovered the most metal-poor known globular cluster in the Milky Way.
