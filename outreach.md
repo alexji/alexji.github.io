@@ -72,3 +72,9 @@ My favorite galaxy is Reticulum II.
 Check out [The Caterpillar Project](http://www.caterpillarproject.org/). Here’s a quick video showing what it’s about. Video production credit to [Brendan Griffen](http://brendangriffen.com/).
 
 <iframe width="625" height="469" src="https://www.youtube.com/embed/g1ti7i7Ay3c?feature=oembed" frameborder="0" allowfullscreen></iframe>
+
+
+<!--
+Other articles I have commented on.
+https://www.sciencenews.org/article/supernova-heavy-elements-source-earth-crust-deep-sea
+-->
