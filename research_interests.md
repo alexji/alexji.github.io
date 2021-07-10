@@ -6,71 +6,96 @@ order: 1
 ---
 I am a near-field cosmologist.
 I study nearby stars and galaxies to understand the first stars and galaxies, the origin of the elements, the history of our galaxy, and the nature of dark matter.
-
-## The First Stars and Galaxies
-
-The first stars and galaxies formed in the first billion years of our universe.
+I am especially interested in the first stars and galaxies, which formed in the first billion years of our universe.
 This early epoch is one of the last unexplored frontiers in the history of our universe.
 
-### Relics of the first galaxies
+My research interests can broadly be divided into four questions: What were the first stars like? What were the first galaxies like? Where are the relics of these systems in the Milky Way today? And how can we use these to learn about dark matter?
+I aim to answer these questions with a mix of observations (especially stellar spectroscopy) and theoretical models and simulations.
+
+
+## The First Stars
+
+I study the chemical composition of metal-poor stars to learn about the first generations of stars: how they were born, how they lived, how they died, and what elements they made along the way.
+
+### Population III Stars
+The very first stars in our universe, known as Population III stars, form in a pristine universe unpolluted by heavy elements.
+Theoretical calculations suggest these stars were unusually massive, which is reflected in the nucleosynthetic yields of elements created when these stars explode.
+The ashes of these stars are preserved in old ("metal-poor") stars that can be found in and around our Milky Way galaxy today.
+
+Astronomers have found ~8 stars that are almost certainly direct descendants of Population III stars (plus several dozen more ambiguous cases).
+I've helped chase down and study the origin of two of them ([Star 1](https://arxiv.org/abs/1507.01973), [Star 2](https://arxiv.org/abs/1810.01228)), and I continue to search for metal-poor (and maybe metal-free??) stars.
+I also create models to study how long signatures of the first stars can be preserved ([paper](https://arxiv.org/abs/1508.06137), [some related code](https://github.com/alexji/SN_model); [another paper](https://arxiv.org/abs/1801.05044)).
+I have also looked at the transition between metal-free and metal-poor star formation ([paper](https://arxiv.org/abs/1307.2239), [code](https://github.com/alexji/dust)).
+As part of the [Caterpillar project](http://www.caterpillarproject.org), I run simulations that investigate how to trace relics of the first stars to the present day ([paper 1](https://arxiv.org/abs/1611.00759); [paper 2](https://arxiv.org/abs/1712.03967)).
+
+### Nucleosynthesis and the R-Process
+
+Massive stars are the most important stars in the early universe, spewing out high energy radiation and releasing the first heavy elements.
+These stars are all dead today, but their heavy elements are preserved in the surface compositions of metal-poor stars.
+I study the detailed compositions of these stars to learn about what types of massive stars existed in the early universe and how they were different from stars today.
+
+One of the most intriguing class of elements is those synthesized in the "rapid neutron-capture process" (r-process).
+The origin of these r-process elements has been a long-standing astrophysical mystery, but recent evidence has slowly coalesced around neutron star mergers as the likely dominant source.
+My work with the dwarf galaxy [Reticulum II](https://www.nature.com/articles/nature17425) is one of the major pieces of evidence in favor of this scenario.
+We've used the detailed composition of stars in this galaxy to understand the nature of neutron star merger ejecta [(paper)](https://arxiv.org/abs/1802.07272),
+and graduate student [Kaley Brauer](http://www.mit.edu/~kbrauer/) and I have since constructed models tracing the formation and disruption of these stars in our Milky Way[(paper)](https://arxiv.org/abs/1809.05539).
+
+One of the most spectacular astronomical discoveries of the 2010s was the [direct detection](https://arxiv.org/abs/1710.05443) of r-process elements made in a neutron star merger, coincident with a [gravitational wave signal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101).
+Such "multi-messenger" studies of the origin of the elements is a fascinating and rapidly growing area.
+With [Maria Drout](https://www.astro.utoronto.ca/~drout/) and [Terese Hansen](https://www.teresehansen.com/), I have made predictions for optical followup of neutron star mergers detected through gravitational waves ([paper](https://arxiv.org/abs/1905.01814)).
+With [Kaley Brauer](http://www.mit.edu/~kbrauer/), I have also made connections to alternate scenarios involving gamma ray bursts.
+
+
+
+## The First Galaxies
+
 Much of my research focuses on observing and interpreting the chemical content of stars in surviving relics of the first galaxies, the so-called ["ultra-faint" dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2019ARA%26A..57..375S/abstract).
 I think that ultra-faint dwarf galaxies are the most fascinating type of object in the universe.
 They have only a few thousand stars (fewer stars than many individual star clusters!), and yet they sit in dark matter halos and show evidence for extended star formation.
 But not too extended: all their stars formed in just the first 1-2 billion years of the universe's history.
 As a result, each ultra-faint dwarf galaxy is a repository of ancient stars with a common formation history.
-
 I like to think of each ultra-faint dwarf galaxy as a small experiment:
 the universe took lots of little galaxies, let them form stars for a short time, then turned them off and left them lying around for us to study.
+
 We're still in the early stages of this process, only having looked at ~20 of the hundreds of ultra-faint dwarf galaxies expected around our Milky Way.
-So far, I have studied seven of these galaxies:
+I'm one of the leaders in this area, having led studies on seven of these galaxies:
 [Reticulum II](https://www.nature.com/articles/nature17425),
 [Tucana II](https://arxiv.org/abs/1609.02915),
 [Bootes II](https://arxiv.org/abs/1510.07632),
 [Grus I and Triangulum II](https://arxiv.org/abs/1809.02182),
 and [Carina II and III](https://arxiv.org/abs/1912.04963).
 
-### Relics of the first stars
-I study the chemical composition of metal-poor stars to learn about the first generation of stars.
-The _very_ first stars in our universe form in a universe without heavy elements.
-As a result, they were probably unusually massive, which should be reflected in the nucleosynthetic yields of elements created when these stars explode.
-The ashes of these stars are preserved in old ("metal-poor") stars.
 
-The _very_ most iron-poor stars are very likely to be true second-generation stars.
-There are only ~7 of these stars known.
-I've helped chase down and study the origin of two of them ([Star 1](https://arxiv.org/abs/1507.01973), [Star 2](https://arxiv.org/abs/1810.01228)).
-
-On the theoretical side, I have studied whether unique abundance signatures of the first stars can be preserved in typical early star forming environments ([paper](https://arxiv.org/abs/1508.06137), [some related code](https://github.com/alexji/SN_model)).
-<!--[//]: # (In short, they’re preserved only by the oldest stars, as the signatures tend to get wiped out after even a single additional generation of star formation. Even the oldest stars are complicated, tracing the combined signatures from several stars and requiring knowledge of the star formation environment to extract quantitative conclusions.)-->
-I have looked at the critical metallicity for the transition from the top-heavy Population III IMF to today’s bottom-heavy IMF. ([paper](https://arxiv.org/abs/1307.2239), [code](https://github.com/alexji/dust))
-<!--[//]: # (We proposed an observational criterion to assess the role of dust thermal cooling in creating the first low-mass stars. )-->
-As part of the [Caterpillar project](http://www.caterpillarproject.org), I have investigated how to use metal-poor stars to understand chemical abundances ([paper](https://arxiv.org/abs/1801.05044)) and tracing them to the present day ([paper 1](https://arxiv.org/abs/1611.00759); [paper 2](https://arxiv.org/abs/1712.03967)).
-
-## Origin of the heaviest elements
-The heaviest elements in the periodic table cannot be created through nuclear fusion. Instead, they are synthesized through neutron-capture processes, a "slow" and a "rapid" process.
-The origin of the rapid process (or "r-process") has been a long-standing astrophysical mystery, but recent evidence has slowly coalesced around neutron star mergers as the likely dominant source.
-
-The dwarf galaxy Reticulum II is an extremely unique galaxy: nearly every star in it is highly enhanced with r-process elements!
-This galaxy appears to preserve the signature of a neutron star merger in the early universe.
-Our paper in [Nature](https://www.nature.com/articles/nature17425) describes this discovery ([arXiv version](https://arxiv.org/abs/1512.01558)).
-A more detailed companion paper can be found in [ApJ](https://arxiv.org/abs/1607.07447).
-Since this galaxy's stars preserve a pure r-process signature, I have also used detailed abundances to understand the nature of neutron star merger ejecta [(paper)](https://arxiv.org/abs/1802.07272).
-
-We've long known that similar r-process stars can be found in the Milky Way's stellar halo (e.g. [here](https://arxiv.org/abs/1706.02934), [here](https://arxiv.org/abs/1806.00645), [here](https://arxiv.org/abs/1807.03734), and more).
-[I hypothesized](https://arxiv.org/abs/1607.07447) that such stars might exclusively originate from ultra-faint dwarf galaxies.
-Graduate student [Kaley Brauer](http://www.mit.edu/~kbrauer/) and I have since constructed models showing that about half of such stars originate just from the ultra-faint dwarf galaxies, with the rest likely explainable by larger disrupted satellite galaxies [(paper)](https://arxiv.org/abs/1809.05539).
-I continue to pursue these questions with the R-Process Alliance.
-
-We have now [directly detected](https://arxiv.org/abs/1710.05443) r-process elements made in a neutron star merger coincident with a [gravitational wave detection](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101).
-This is a new and exciting way to understand the r-process.
-Using the Milky Way's r-process stars, I have made predictions for optical followup of neutron star mergers detected through gravitational waves ([paper](https://arxiv.org/abs/1905.01814)).
 
 ## Milky Way Assembly and Substructure
 
-One of the biggest challenges of near-field cosmology is that we only get one nearby universe, but our cosmological model only predicts statistical distributions of physical properties.
+Besides the dwarf galaxies, I am also broadly interested in the assembly history of our Milky Way galaxy, especially in understanding the systems that were destroyed to make up its stellar halo.
+I co-chair the Milky Way Halo Working group as part of [SDSS-V](https://www.sdss5.org/), where a primary goal is the chemical decomposition of the stellar halo into its component parts.
+This goal is really hard, so recently I have been especially intruiged by the slightly easier stellar streams, which are galaxies and star clusters that are still in the process of being tidally disrupted by the Milky Way.
+I lead the high-resolution abundance analysis for the [S5 Survey](https://s5collab.github.io/) ([paper](https://arxiv.org/abs/2008.07568)).
+
+One of the biggest challenges of near-field cosmology is that we only get one nearby universe, but our standard cosmological model only predicts statistical distributions of physical properties.
 As a result, we must run a lot of simulations to disentangle observations specific to our corner of the universe from general facts about cosmology.
 I’m a core member of the [Caterpillar project](http://www.caterpillarproject.org/), a large suite of cosmological zoom-in simulations of Milky Way mass galaxies. These will help us understand the formation history of our Milky Way and potentially constrain our models of dark matter. I’ve played a large role in running and postprocessing these simulations, which has taken millions of CPU-hours. I led the post-processing effort for Caterpillar, and one of my main contributions was an adaptation of the halo finder ROCKSTAR that implements iterative unbinding ([link here](https://bitbucket.org/alexji/rockstar)). ([Caterpillar flagship paper](https://arxiv.org/abs/1509.01255))
 
-I am also interested in other denizens of our Milky Way's halo. I have recently become particularly interested in stellar streams.
-These are galaxies and star clusters that are in the process of being tidally disrupted by the Milky Way.
-I lead the high-resolution abundance analysis for the [S5 Survey](https://s5collab.github.io/) ([paper](https://arxiv.org/abs/2008.07568)).
-More recently, I co-chair the Milky Way Halo Working group as part of [SDSS-V](https://www.sdss5.org/).
+
+
+## Dark Matter
+
+The first stars and galaxies are sensitive probes of the nature of dark matter.
+Because they form in the smallest dark matter halos, changing the mass of dark matter would drastically change where, when, and how these stars form.
+Their relics in the Milky Way today may provide some of the most crucial information on "small-scale tensions" with the standard Cold Dark Matter model, e.g. their overall abundance and density profiles.
+This basic theme pervades much of my work on ultra-faint dwarf galaxies.
+
+More recently, the discovery of stellar streams opens new ways to understand the nature of dark matter, even dark matter halos too small to ever form stars ("dark subhalos").
+With the [S5 Survey](https://s5collab.github.io/) we are obtaining observations of both [streams](https://arxiv.org/abs/2006.10763) and [disrupting dwarf galaxies](https://arxiv.org/abs/2008.07568)
+whose properties are sensitive to the presence of dark subhalos and the density profile of dark matter halos.
+
+
+
+## Stellar Spectroscopy
+
+I am broadly interested in the technical aspects of stellar spectroscopy, including optimal data reduction, improving the stellar models and atomic data, and new spectrum analysis methods.
+With [Andy Casey](https://astrowizici.st/) and [Erika Holmbeck](https://eholmbeck.github.io/), I develop the interactive stellar abundance analysis tool [smhr](https://github.com/andycasey/smhr).
+I have derived a statistical framework to correctly propagate stellar parameter uncertainties and their correlated effect on stellar abundances ([paper](https://arxiv.org/abs/2008.07568), see Appendix B).
+With [Yuan-Sen Ting](https://www.sns.ias.edu/~ting/), I am exploring using machine-learning methods that will vastly speed up the analysis of stellar spectra and enable improved physics to be applied at large scale.
