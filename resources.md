@@ -63,3 +63,6 @@ order: 4
 * [11 Rules for Meetings](https://www.nature.com/articles/d41586-019-02295-z)
 * [The Good Talk Talk by Natasha Batalha](https://natashabatalha.github.io/GoodTalkTalk.pdf)
 * [How to be a good graduate student](https://www.discovermagazine.com/the-sciences/unsolicited-advice-iv-how-to-be-a-good-graduate-student)
+
+### Astronomy
+* [International Astronomy Meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/index.html)
