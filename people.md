@@ -10,7 +10,7 @@ order: 3
 * Samantha Usman (PhD student)
 * Alice Luna (PhD student)
 * Shuyu Wang (MS student)
-* Sanjana Curtis (Postdoc, starting Apr 2022)
+* [Sanjana Curtis](https://sanjanacurtis.com/) (Postdoc, starting Apr 2022)
 
 We also participate in the [Survey Science Group](https://surveys.uchicago.edu/) as part of the Near-Field Cosmology subset.
 
