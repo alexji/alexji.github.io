@@ -1,6 +1,6 @@
 # Site settings
 title: Alex Ji
-email: aji at carnegiescience dot edu
+email: alexji at uchicago dot edu
 description: " "
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://alexji.github.io" # the base hostname & protocol for your site

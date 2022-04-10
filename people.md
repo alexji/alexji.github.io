@@ -7,9 +7,9 @@ order: 3
 
 ### Current Group Members at UChicago
 
-* Sanjana Curtis (Postdoc)
+* [Sanjana Curtis](https://sanjanacurtis.com/) (Postdoc)
 * Samantha Usman (PhD student)
-* Alice Burington-Luna (PhD student)
+* Alice Luna (PhD student)
 * Shuyu Wang (MS student)
 * Yupeng Yao (MS student)
 
