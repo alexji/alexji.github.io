@@ -7,12 +7,13 @@ order: 3
 
 ### Current Group Members at UChicago
 
+* Sanjana Curtis (Postdoc)
 * Samantha Usman (PhD student)
 * Alice Burington-Luna (PhD student)
 * Shuyu Wang (MS student)
-* Sanjana Curtis (Postdoc, starting Apr 2022)
+* Yupeng Yao (MS student)
 
-We also participate in the [Survey Science Group](https://surveys.uchicago.edu/) as part of the Near-Field Cosmology subset.
+We also participate in the [Survey Science Group](https://surveys.uchicago.edu/) as part of the Near-Field Cosmology group.
 
 ### Interested in Near Field Cosmology at University of Chicago?
 
