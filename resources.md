@@ -32,6 +32,7 @@ order: 4
 * [ESO Eclipse](https://www.eso.org/sci/software/eclipse/) (almost exclusively for `dfits` and `fitsort`)
 * Adding an [SSH key on github](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/), also see [this link](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
 * [Making a website](https://astrosites.github.io/index.html)
+* [Gemini IRAF for M1](https://gemini-iraf-vm-tutorial.readthedocs.io/en/stable/)
 
 ### Python
 * [Alex's python modules](https://github.com/alexji/alexmods) for science analysis
