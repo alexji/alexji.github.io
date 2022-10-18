@@ -32,6 +32,7 @@ order: 4
 * [ESO Eclipse](https://www.eso.org/sci/software/eclipse/) (almost exclusively for `dfits` and `fitsort`)
 * Adding an [SSH key on github](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/), also see [this link](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
 * [Making a website](https://astrosites.github.io/index.html)
+* [Gemini IRAF for M1](https://gemini-iraf-vm-tutorial.readthedocs.io/en/stable/)
 
 ### Python
 * [Alex's python modules](https://github.com/alexji/alexmods) for science analysis
@@ -63,6 +64,7 @@ order: 4
 * [11 Rules for Meetings](https://www.nature.com/articles/d41586-019-02295-z)
 * [The Good Talk Talk by Natasha Batalha](https://natashabatalha.github.io/GoodTalkTalk.pdf)
 * [How to be a good graduate student](https://www.discovermagazine.com/the-sciences/unsolicited-advice-iv-how-to-be-a-good-graduate-student)
+* [The importance of stupidity in scientific research](files/schwartz-2008.pdf)
 * [How to ask for recommendation letters](https://twitter.com/astroarianna/status/1582039372282486786?s=20&t=6dbH71gxMo3LR3SFCLE5bg)
 
 ### Astronomy
