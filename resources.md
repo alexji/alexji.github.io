@@ -67,5 +67,9 @@ order: 4
 * [The importance of stupidity in scientific research](files/schwartz-2008.pdf)
 * [How to ask for recommendation letters](https://twitter.com/astroarianna/status/1582039372282486786?s=20&t=6dbH71gxMo3LR3SFCLE5bg)
 
+### Career
+* [Finding Undergraduate Research Opportunities by Brandon Barker](https://astrobarker.github.io/undresearch.html)
+* [Astronomy PhD to Data Science by Taka Tanaka](https://github.com/taka-tanaka/astronomy-to-data-science/blob/master/ATDS.pdf)
+
 ### Astronomy
 * [International Astronomy Meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/index.html)
