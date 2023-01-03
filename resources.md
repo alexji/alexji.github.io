@@ -9,7 +9,7 @@ order: 4
 * [MIKE Observing Instructions](https://github.com/alexji/mikerun)
 * [MOOG](http://www.as.utexas.edu/~chris/moog.html)
 * [My version of MOOG 2017 (includes Jen Sobeck's scattering routines)](https://github.com/alexji/moog17scat)
-* [SMHR (under development)](https://github.com/andycasey/smhr)
+* [SMHR](https://github.com/andycasey/smhr)
 * [JINAbase](http://jinabase.pythonanywhere.com/)
 * [Placco Carbon Corrections](http://vplacco.pythonanywhere.com/)
 * NLTE grids by [Bergemann et al.](http://nlte.mpia.de/), [Lind et al.](http://www.inspect-stars.com/cp/application.py/), [Mashonkina et al.](http://spectrum.inasan.ru/nLTE/)
