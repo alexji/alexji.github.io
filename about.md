@@ -15,8 +15,8 @@ I grew up in the California Bay Area where I spent most of my time doing math an
 I graduated from Stanford University in 2011 with a Physics BS (minor in CS) and in 2012 with a Statistics MS, specializing in applied statistics and learning methods.
 I really enjoy teaching, and at Stanford I taught many courses, including the first generation of the student initiated course [Practical Computing for Scientists](https://web.stanford.edu/class/physics91SI/). 
 I also sang and played piano for [Side by Side](http://sidebyside.stanford.edu/), and presided over the Stanford SPS.
-As a postdoc, I have participated in the [PDP program by UCSC-ISEE](https://isee.ucsc.edu/programs/pdp/index.html).
-In my spare time, I enjoy eating food, board games, hiking, and classical music.
+As a postdoc, I participated in the [PDP program by UCSC-ISEE](https://isee.ucsc.edu/programs/pdp/index.html).
+In my spare time, I enjoy making and eating food, board games, hiking, and classical music.
 
 Photo credit: [Damien Jemison](https://www.damienjemison.com/)
 
