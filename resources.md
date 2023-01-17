@@ -67,6 +67,7 @@ order: 4
 * [How to be a good graduate student](https://www.discovermagazine.com/the-sciences/unsolicited-advice-iv-how-to-be-a-good-graduate-student)
 * [The importance of stupidity in scientific research](files/schwartz-2008.pdf)
 * [How to ask for recommendation letters](https://twitter.com/astroarianna/status/1582039372282486786?s=20&t=6dbH71gxMo3LR3SFCLE5bg)
+* [Writing effectively (video)](https://youtu.be/vtIzMaLkCaM)
 
 ### Career
 * [Finding Undergraduate Research Opportunities by Brandon Barker](https://astrobarker.github.io/undresearch.html)
