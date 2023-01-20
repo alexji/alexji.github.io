@@ -10,6 +10,7 @@ order: 4
 * [MOOG](http://www.as.utexas.edu/~chris/moog.html)
 * [My version of MOOG 2017 (includes Jen Sobeck's scattering routines)](https://github.com/alexji/moog17scat)
 * [SMHR](https://github.com/andycasey/smhr)
+* [LESSPayne (under development)](https://github.com/alexji/LESSPayne)
 * [JINAbase](http://jinabase.pythonanywhere.com/)
 * [Placco Carbon Corrections](http://vplacco.pythonanywhere.com/)
 * NLTE grids by [Bergemann et al.](http://nlte.mpia.de/), [Lind et al.](http://www.inspect-stars.com/cp/application.py/), [Mashonkina et al.](http://spectrum.inasan.ru/nLTE/)
@@ -66,6 +67,7 @@ order: 4
 * [How to be a good graduate student](https://www.discovermagazine.com/the-sciences/unsolicited-advice-iv-how-to-be-a-good-graduate-student)
 * [The importance of stupidity in scientific research](files/schwartz-2008.pdf)
 * [How to ask for recommendation letters](https://twitter.com/astroarianna/status/1582039372282486786?s=20&t=6dbH71gxMo3LR3SFCLE5bg)
+* [Writing effectively (video)](https://youtu.be/vtIzMaLkCaM)
 
 ### Career
 * [Finding Undergraduate Research Opportunities by Brandon Barker](https://astrobarker.github.io/undresearch.html)
