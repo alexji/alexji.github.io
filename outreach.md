@@ -5,6 +5,11 @@ permalink: /outreach/
 order: 5
 ---
 
+# Popular Science Programs
+I have been a scientific advisor for a few popular science videos:
+* [You Are Not Where You Think You Are - Kurzgesagt](https://www.youtube.com/watch?v=Pj-h6MEgE7I)
+* [SEARCHING with Alan Lightman](https://searchingformeaning.org/)
+
 # An extended halo around an ancient dwarf galaxy
 [Anirudh Chiti](http://www.mit.edu/~achiti/) led a paper detecting the very outskirts of the dwarf galaxy Tucana II.
 This is the furthest out that stars have been detected around a tiny galaxy. The paper is published in [Nature Astronomy](https://rdcu.be/ceAbh).
