@@ -75,3 +75,5 @@ order: 4
 
 ### Astronomy
 * [International Astronomy Meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/index.html)
+* [Moon Brightness from NOAO (webarchive link)](https://web.archive.org/web/20210312010916/https://www.noao.edu/noao/noaonews/mar94/art20.html)
+  

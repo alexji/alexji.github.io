@@ -16,6 +16,7 @@ order: 3
 * Pierre Thibodeaux (PhD student)
 * Jarvis Zhang (Undergrad Student)
 * Benjamin Cohen (Undergrad Student)
+* Charlie Walsh (Undergrad Student)
 
 We also participate in the [Survey Science Group](https://surveys.uchicago.edu/)
 
