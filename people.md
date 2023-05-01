@@ -28,7 +28,7 @@ We also participate in the [Survey Science Group](https://surveys.uchicago.edu/)
 
 * Current UChicago undergraduate or graduate students: send me an e-mail with a description of your resume/CV and research interests. I am not able to take more students for 2022-2023.
 * Undergraduates outside UChicago: I am currently only taking external undergraduate students through the [UChicago Leadership Alliance](https://leadershipalliance.uchicago.edu/).
-* Prospective graduate students: apply to the UChicago [PhD Program](https://astrophysics.uchicago.edu/academics/graduate-programs/) and include my name in your application. I am not actively looking for graduate students at the moment.
+* Prospective graduate students: apply to the UChicago [PhD Program](https://astrophysics.uchicago.edu/academics/graduate-programs/) and include my name in your application. I am not able to take graduate students at the moment.
 * Postdoctoral fellowships and positions: If you would like to come to UChicago through a national or UChicago fellowship, please e-mail me and let me know! The primary fellowships at UChicago are the [Margaret Burbidge Fellowship](https://astro-fellowship.uchicago.edu/) and the [KICP Fellowship](https://kicp-fellowship.uchicago.edu/). A list of other opportunities is at the bottom here: [https://kicp-fellowship.uchicago.edu/](https://kicp-fellowship.uchicago.edu/).
 
 ### People 2020-2021
