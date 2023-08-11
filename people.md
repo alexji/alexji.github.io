@@ -11,16 +11,18 @@ order: 3
 * [Ani Chiti](https://www.anichiti.space/) (Brinson Postdoctoral Fellow)
 * [Samantha Usman](https://www.samusman.space/) (PhD student)
 * Alice Luna (PhD student)
-* Shuyu Wang (MS student)
-* Yupeng Yao (MS student)
 * Pierre Thibodeaux (PhD student)
+* Guilherme Limberg (USP visiting PhD student)
+* Yupeng Yao (MS student)
 * Jarvis Zhang (Undergrad Student)
 * Benjamin Cohen (Undergrad Student)
 * Charlie Walsh (Undergrad Student)
+* Kaia Atzberger (OSU Undergraduate Student)
 
 We also participate in the [Survey Science Group](https://surveys.uchicago.edu/)
 
 ### Past Group Members
+* Shuyu Wang (MS student)
 * Noah Geller (Undergrad Student)
 * Morgan Lee (Undergrad Student)
 
