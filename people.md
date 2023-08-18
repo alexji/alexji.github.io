@@ -5,33 +5,33 @@ permalink: /people/
 order: 3
 ---
 
+### Interested in Near Field Cosmology at University of Chicago?
+
+* Prospective graduate students: I am not taking graduate students for 2023-2024. Apply to the UChicago [PhD Program](https://astrophysics.uchicago.edu/academics/graduate-programs/) and include my name in your application. 
+* Current UChicago undergraduate or graduate students: send me an e-mail with your resume/CV and a description of research interests.
+* Undergraduates outside UChicago: I am currently only accepting external undergraduate students through the [UChicago Leadership Alliance](https://leadershipalliance.uchicago.edu/).
+* Postdoctoral fellowships and positions: If you would like to come to UChicago through a national or UChicago fellowship, please e-mail me and let me know! The primary fellowships at UChicago are the [Margaret Burbidge Fellowship](https://astro-fellowship.uchicago.edu/) and the [KICP Fellowship](https://kicp-fellowship.uchicago.edu/). A list of other opportunities is at the bottom here: [https://kicp-fellowship.uchicago.edu/](https://kicp-fellowship.uchicago.edu/).
+
 ### Current Group Members at UChicago
 
-* [Sanjana Curtis](https://sanjanacurtis.com/) (Postdoctoral Scholar)
 * [Ani Chiti](https://www.anichiti.space/) (Brinson Postdoctoral Fellow)
 * [Samantha Usman](https://www.samusman.space/) (PhD student)
 * Alice Luna (PhD student)
 * Pierre Thibodeaux (PhD student)
-* Guilherme Limberg (USP visiting PhD student)
+* [Guilherme Limberg](https://guilimberg.github.io/) (USP visiting PhD student)
 * Yupeng Yao (MS student)
-* Jarvis Zhang (Undergrad Student)
-* Benjamin Cohen (Undergrad Student)
-* Charlie Walsh (Undergrad Student)
-* Kaia Atzberger (OSU Undergraduate Student)
+* Jarvis Zhang (UChicago Undergrad Student)
+* Benjamin Cohen (UChicago Undergrad Student)
+* Charlie Walsh (UChicago Undergrad Student)
 
 We also participate in the [Survey Science Group](https://surveys.uchicago.edu/)
 
 ### Past Group Members
+* [Sanjana Curtis](https://sanjanacurtis.com/) (Postdoctoral Scholar)
+* Kaia Atzberger (OSU Undergrad)
 * Shuyu Wang (MS student)
-* Noah Geller (Undergrad Student)
-* Morgan Lee (Undergrad Student)
-
-### Interested in Near Field Cosmology at University of Chicago?
-
-* Current UChicago undergraduate or graduate students: send me an e-mail with a description of your resume/CV and research interests. I am not able to take more students for 2022-2023.
-* Undergraduates outside UChicago: I am currently only taking external undergraduate students through the [UChicago Leadership Alliance](https://leadershipalliance.uchicago.edu/).
-* Prospective graduate students: apply to the UChicago [PhD Program](https://astrophysics.uchicago.edu/academics/graduate-programs/) and include my name in your application. I am not able to take graduate students at the moment.
-* Postdoctoral fellowships and positions: If you would like to come to UChicago through a national or UChicago fellowship, please e-mail me and let me know! The primary fellowships at UChicago are the [Margaret Burbidge Fellowship](https://astro-fellowship.uchicago.edu/) and the [KICP Fellowship](https://kicp-fellowship.uchicago.edu/). A list of other opportunities is at the bottom here: [https://kicp-fellowship.uchicago.edu/](https://kicp-fellowship.uchicago.edu/).
+* Noah Geller (UChicago Undergrad)
+* Morgan Lee (UWisconsin Undergrad)
 
 ### People 2020-2021
 
