@@ -64,7 +64,7 @@ order: 4
 * [Hamming: You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [11 Rules for Meetings](https://www.nature.com/articles/d41586-019-02295-z)
 * [The Good Talk Talk by Natasha Batalha](https://natashabatalha.github.io/GoodTalkTalk.pdf)
-* [How to be a good graduate student](https://www.discovermagazine.com/the-sciences/unsolicited-advice-iv-how-to-be-a-good-graduate-student)
+* [How to be a good graduate student](https://www.preposterousuniverse.com/blog/2007/09/26/unsolicited-advice-iv-how-to-be-a-good-graduate-student/)
 * [The importance of stupidity in scientific research](files/schwartz-2008.pdf)
 * [How to ask for recommendation letters](https://twitter.com/astroarianna/status/1582039372282486786?s=20&t=6dbH71gxMo3LR3SFCLE5bg)
 * [Writing effectively (video)](https://youtu.be/vtIzMaLkCaM)
