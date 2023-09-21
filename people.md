@@ -10,7 +10,7 @@ order: 3
 * Prospective graduate students: I am not taking graduate students for 2023-2024. Apply to the UChicago [PhD Program](https://astrophysics.uchicago.edu/academics/graduate-programs/) and include my name in your application. 
 * Current UChicago undergraduate or graduate students: send me an e-mail with your resume/CV and a description of research interests.
 * Undergraduates outside UChicago: I am currently only accepting external undergraduate students through the [UChicago Leadership Alliance](https://leadershipalliance.uchicago.edu/).
-* Postdoctoral fellowships and positions: If you would like to come to UChicago through a national or UChicago fellowship, please e-mail me and let me know! The primary local fellowships at UChicago are the [Margaret Burbidge Fellowship](https://astro-fellowship.uchicago.edu/) and the [KICP Fellowship](https://kicp-fellowship.uchicago.edu/). The primary national fellowships are the [NSF AAPF](https://new.nsf.gov/funding/opportunities/nsf-astronomy-astrophysics-postdoctoral), [NHFP Hubble Fellowship](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program), and the [Brinson Prize Fellowship](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program/announcement-of-opportunity). A list of other opportunities is at the bottom here: [https://kicp-fellowship.uchicago.edu/](https://kicp-fellowship.uchicago.edu/).
+* Postdoctoral fellowships and positions: If you would like to come to UChicago through a national or UChicago fellowship, please e-mail me and let me know! The primary local fellowships at UChicago are the [Margaret Burbidge Fellowship](https://astro-fellowship.uchicago.edu/) and the [KICP Fellowship](https://kicp-fellowship.uchicago.edu/). The primary national fellowships are the [NSF AAPF](https://new.nsf.gov/funding/opportunities/nsf-astronomy-astrophysics-postdoctoral), [NHFP Hubble Fellowship](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program), and the [Brinson Prize Fellowship](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program/announcement-of-opportunity). A list of other opportunities is here: [https://astrophysics.uchicago.edu/research/prize-postdoctoral-fellowships-in-astronomy-and-astrophysics/](https://astrophysics.uchicago.edu/research/prize-postdoctoral-fellowships-in-astronomy-and-astrophysics/)
 
 
 
@@ -19,7 +19,7 @@ order: 3
 * [Ani Chiti](https://www.anichiti.space/) (Brinson Postdoctoral Fellow)
 * [Samantha Usman](https://www.samusman.space/) (PhD student)
 * Alice Luna (PhD student)
-* Pierre Thibodeaux (PhD student)
+* [Pierre Thibodeaux](https://pierrethx.github.io/) (PhD student)
 * [Guilherme Limberg](https://guilimberg.github.io/) (USP visiting PhD student)
 * Yupeng Yao (MS student)
 * Jarvis Zhang (UChicago Undergrad Student)
