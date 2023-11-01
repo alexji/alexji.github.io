@@ -34,6 +34,7 @@ order: 4
 * Adding an [SSH key on github](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/), also see [this link](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
 * [Making a website](https://astrosites.github.io/index.html)
 * [Gemini IRAF for M1](https://gemini-iraf-vm-tutorial.readthedocs.io/en/stable/)
+* [Phil Massey setting up a new Mac](http://www2.lowell.edu/users/massey/Macsoftware.html)
 
 ### Python
 * [Alex's python modules](https://github.com/alexji/alexmods) for science analysis

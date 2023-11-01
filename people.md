@@ -20,20 +20,20 @@ order: 3
 * [Samantha Usman](https://www.samusman.space/) (PhD student)
 * Alice Luna (PhD student)
 * [Pierre Thibodeaux](https://pierrethx.github.io/) (PhD student)
-* [Guilherme Limberg](https://guilimberg.github.io/) (USP visiting PhD student)
-* Yupeng Yao (MS student)
 * Jarvis Zhang (UChicago Undergrad Student)
 * Benjamin Cohen (UChicago Undergrad Student)
-* Charlie Walsh (UChicago Undergrad Student)
 
 We also participate in the [Survey Science Group](https://surveys.uchicago.edu/)
 
 ### Past Group Members
 * [Sanjana Curtis](https://sanjanacurtis.com/) (Postdoctoral Scholar)
+* [Guilherme Limberg](https://guilimberg.github.io/) (USP visiting PhD student)
+* Yupeng Yao (MS student)
 * Kaia Atzberger (OSU Undergrad)
 * Shuyu Wang (MS student)
 * Noah Geller (UChicago Undergrad)
 * Morgan Lee (UWisconsin Undergrad)
+* Charlie Walsh (UChicago Undergrad)
 
 ### People 2020-2021
 
