@@ -20,6 +20,7 @@ order: 3
 * [Samantha Usman](https://www.samusman.space/) (PhD student)
 * Alice Luna (PhD student)
 * [Pierre Thibodeaux](https://pierrethx.github.io/) (PhD student)
+* Daisy Bissonette (PhD student)
 * Jarvis Zhang (UChicago Undergrad Student)
 * Benjamin Cohen (UChicago Undergrad Student)
 
