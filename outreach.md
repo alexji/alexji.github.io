@@ -40,7 +40,9 @@ This is the furthest out that stars have been detected around a tiny galaxy. The
 A collection of press from
 [Carnegie](https://carnegiescience.edu/node/2706),
 [MIT](https://news.mit.edu/2021/astronomers-detect-extended-dark-matter-halo-ancient-dwarf-galaxy-0201),
-[The Guardian](https://www.theguardian.com/science/2021/feb/01/discovery-of-outer-stars-of-dwarf-galaxy-sheds-new-light-on-dark-matter).
+[The Guardian](https://www.theguardian.com/science/2021/feb/01/discovery-of-outer-stars-of-dwarf-galaxy-sheds-new-light-on-dark-matter),
+[CNN](https://www.cnn.com/2021/02/02/world/dark-matter-halo-ancient-galaxy-scn-trnd/index.html),
+[Sky and Telescope](https://skyandtelescope.org/astronomy-news/our-tiny-galactic-neighbor-hosts-ancient-stars/).
 
 # A primitive stellar stream
 
