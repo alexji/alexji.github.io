@@ -5,6 +5,12 @@ permalink: /outreach/
 order: 5
 ---
 
+# Spectacular Nucleosynthesis in Early Massive Stars
+We recently published a discovery of a star with spectacular chemical composition, discovered in [SDSS-V](https://sdss.org/).
+It implies an explosion of an ancient star so massive that it should not have exploded, but we are at the limits of our theoretical supernova models.
+The paper is in press at ApJL ([arXiv](https://arxiv.org/abs/2401.02484)) and you can see my AAS press conference on [YouTube](https://www.youtube.com/live/XCd662aOmy4?si=BtsCACfPFL2gsvDP&t=1972).
+A collection of articles from [UChicago](https://news.uchicago.edu/story/scientists-find-unusual-star-hints-new-way-stars-can-die), [SDSS-V](https://www.sdss.org/barbenheimer-star/), [ScienceAlert](https://www.sciencealert.com/ancient-gigantic-star-exploded-in-a-way-we-didnt-think-was-possible), [Phys.org](https://phys.org/news/2024-01-discovery-unusual-star-picture-stars.html), [Astrobites](https://astrobites.org/2024/01/11/astrobites-at-aas-243-day-3/).
+
 # Popular Science Programs
 I have been a scientific advisor for a few popular science videos:
 * [You Are Not Where You Think You Are - Kurzgesagt](https://www.youtube.com/watch?v=Pj-h6MEgE7I)
