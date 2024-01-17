@@ -41,6 +41,9 @@ I have been a scientific advisor for a few popular science videos.
 * [You Are Not Where You Think You Are - Kurzgesagt](https://www.youtube.com/watch?v=Pj-h6MEgE7I)
 * [SEARCHING with Alan Lightman](https://searchingformeaning.org/)
 
+# Twelve for Dinner
+The [S5 collaboration](https://s5collab.github.io/) published the first 6D map of twelve distant stellar streams ([paper]()https://ui.adsabs.harvard.edu/abs/2021arXiv211006950L) that will help reveal the dark matter distribution in the Milky Way. Press from [UToronto](https://www.dunlap.utoronto.ca/dozen_stellar_stream/), see details at [our website](https://s5collab.github.io/one_dozen_streams_press_release/).
+
 # An extended halo around an ancient dwarf galaxy
 [Anirudh Chiti](http://www.mit.edu/~achiti/) led a paper detecting the very outskirts of the dwarf galaxy Tucana II.
 This is the furthest out that stars have been detected around a tiny galaxy. The paper is published in [Nature Astronomy](https://rdcu.be/ceAbh).
