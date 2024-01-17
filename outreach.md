@@ -29,8 +29,15 @@ A collection of articles from
 [BNN Breaking](https://bnnbreaking.com/tech/science-tech/milky-ways-barbenheimer-star-bears-unique-chemical-imprint-of-ancient-supernova/).
 -->
 
+| ![Ji-001-supernova_2panelA.jpg](img/Ji-001-supernova_2panelA.jpg) | 
+|:--:| 
+| *Illustration of stellar archaeology, showing elements measured in the star J0931+0038.* |
+| *Left: Illustration of supernova explosion with elements flying out from the center.* |
+| *Right: Red giant star with pullout showing elements measured.* |
+| *Image Credit: University of Chicago/SDSS-V/Melissa Weiss* |
+
 # Popular Science Programs
-I have been a scientific advisor for a few popular science videos:
+I have been a scientific advisor for a few popular science videos.
 * [You Are Not Where You Think You Are - Kurzgesagt](https://www.youtube.com/watch?v=Pj-h6MEgE7I)
 * [SEARCHING with Alan Lightman](https://searchingformeaning.org/)
 
@@ -92,7 +99,6 @@ My favorite galaxy is Reticulum II.
 
 [New in 2021! Update on the search for gold](https://www.pnas.org/content/118/4/e2026110118)
 
-<!--<img src="img/RetII_3Q_v3_lowres.png" height="300" width="300" alt="The nine brightest stars in the r-process galaxy Reticulum II are circled. Three of these stars are highlighted, showing their large barium content." />-->
 ![The nine brightest stars in the r-process galaxy Reticulum II are circled. Three of these stars are highlighted, showing their large barium content.](/img/RetII_3Q_v3_lowres.png)
 
 <sub><sup>The nine brightest stars in the r-process galaxy Reticulum II are circled. </sup></sub>
