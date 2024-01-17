@@ -9,7 +9,25 @@ order: 5
 We recently published a discovery of a star with spectacular chemical composition, discovered in [SDSS-V](https://sdss.org/).
 It implies an explosion of an ancient star so massive that it should not have exploded, but we are at the limits of our theoretical supernova models.
 The paper is in press at ApJL ([arXiv](https://arxiv.org/abs/2401.02484)) and you can see my AAS press conference on [YouTube](https://www.youtube.com/live/XCd662aOmy4?si=BtsCACfPFL2gsvDP&t=1972).
-A collection of articles from [UChicago](https://news.uchicago.edu/story/scientists-find-unusual-star-hints-new-way-stars-can-die), [SDSS-V](https://www.sdss.org/barbenheimer-star/), [ScienceAlert](https://www.sciencealert.com/ancient-gigantic-star-exploded-in-a-way-we-didnt-think-was-possible), [Phys.org](https://phys.org/news/2024-01-discovery-unusual-star-picture-stars.html), [Astrobites](https://astrobites.org/2024/01/11/astrobites-at-aas-243-day-3/).
+A collection of articles from
+[UChicago](https://news.uchicago.edu/story/scientists-find-unusual-star-hints-new-way-stars-can-die),
+[SDSS-V](https://www.sdss.org/barbenheimer-star/),
+[Astrobites](https://astrobites.org/2024/01/11/astrobites-at-aas-243-day-3/),
+[Starts with a Bang](https://bigthink.com/starts-with-a-bang/milky-way-weirdest-star/),
+[Calfornia Academy of Sciences](https://www.calacademy.org/explore-science/the-barbenheimer-star-and-exploding-white-dwarfs),
+[ScienceAlert](https://www.sciencealert.com/ancient-gigantic-star-exploded-in-a-way-we-didnt-think-was-possible),
+[Science Reader](https://sciencereader.com/science-update-barbenheimer-star-quantum-effects-and-innovative-robots/),
+[Phys.org](https://phys.org/news/2024-01-discovery-unusual-star-picture-stars.html), and others.
+<!--
+[Interesting Engineering](https://interestingengineering.com/science/barbenheimer-study-finds-clues-of-ancient-explosion-in-an-extant-star),
+[IFLScience](https://www.iflscience.com/barbenheimer-star-loaded-with-heavy-metals-is-unlike-anything-scientists-have-seen-or-expected-72466),
+[The Science Times](https://www.sciencetimes.com/articles/48204/20240116/baffling-barbenheimer-star-defies-conventional-theories-cosmic-demise-element-creation.htm),
+[Locgi News](https://www.locgi.com/science/barbenheimer-star-loaded-with-heavy-metals-is-unlike-anything-scientists-have-seen-or-expected-3038),
+[ISP.Page](https://isp.page/news/a-star-with-a-mystical-past-discovering-the-barbenheimer-star/#gsc.tab=0),
+[ISP.Page](https://isp.page/news/a-lone-stars-supernova-origins-unveiled/#gsc.tab=0),
+[Meson Stars](https://www.mesonstars.com/space/researchers-have-found-the-remains-of-the-barbenheimer-star-it-damaged-the-known-laws-of-material-science-when-it-detonated/),
+[BNN Breaking](https://bnnbreaking.com/tech/science-tech/milky-ways-barbenheimer-star-bears-unique-chemical-imprint-of-ancient-supernova/).
+-->
 
 # Popular Science Programs
 I have been a scientific advisor for a few popular science videos:
