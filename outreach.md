@@ -8,7 +8,7 @@ order: 5
 # Spectacular Nucleosynthesis in Early Massive Stars
 We recently published a discovery of a star with spectacular chemical composition, discovered in [SDSS-V](https://sdss.org/).
 It implies an explosion of an ancient star so massive that it should not have exploded, but we are at the limits of our theoretical supernova models.
-The paper is in press at ApJL ([arXiv](https://arxiv.org/abs/2401.02484)) and you can see my AAS press conference on [YouTube](https://www.youtube.com/live/XCd662aOmy4?si=BtsCACfPFL2gsvDP&t=1972).
+The [paper](https://ui.adsabs.harvard.edu/abs/2024ApJ...961L..41J/abstract) is out and you can see my AAS press conference on [YouTube](https://www.youtube.com/live/XCd662aOmy4?si=BtsCACfPFL2gsvDP&t=1972).
 A collection of articles from
 [UChicago](https://news.uchicago.edu/story/scientists-find-unusual-star-hints-new-way-stars-can-die),
 [SDSS-V](https://www.sdss.org/barbenheimer-star/),
@@ -42,7 +42,7 @@ I have been a scientific advisor for a few popular science videos.
 * [SEARCHING with Alan Lightman](https://searchingformeaning.org/)
 
 # Twelve for Dinner
-The [S5 collaboration](https://s5collab.github.io/) published the first 6D map of twelve distant stellar streams ([paper]()https://ui.adsabs.harvard.edu/abs/2021arXiv211006950L) that will help reveal the dark matter distribution in the Milky Way. Press from [UToronto](https://www.dunlap.utoronto.ca/dozen_stellar_stream/), see details at [our website](https://s5collab.github.io/one_dozen_streams_press_release/).
+The [S5 collaboration](https://s5collab.github.io/) published the first 6D map of twelve distant stellar streams ([paper](https://ui.adsabs.harvard.edu/abs/2021arXiv211006950L)) that will help reveal the dark matter distribution in the Milky Way. Press from [UToronto](https://www.dunlap.utoronto.ca/dozen_stellar_stream/), see details at [our website](https://s5collab.github.io/one_dozen_streams_press_release/).
 
 # An extended halo around an ancient dwarf galaxy
 [Anirudh Chiti](http://www.mit.edu/~achiti/) led a paper detecting the very outskirts of the dwarf galaxy Tucana II.
