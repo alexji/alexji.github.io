@@ -62,6 +62,7 @@ order: 4
 * [Fun with scraping](https://github.com/alexji/scrapetelescopeschedule)
 
 ### Advice
+* [Katie Mack: advice for aspiring astrophysicists](https://www.astrokatie.com/solicited-advice)
 * [Hamming: You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [11 Rules for Meetings](https://www.nature.com/articles/d41586-019-02295-z)
 * [The Good Talk Talk by Natasha Batalha](https://natashabatalha.github.io/GoodTalkTalk.pdf)
