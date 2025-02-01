@@ -10,13 +10,11 @@ order: 9
 I am an Assistant Professor at the University of Chicago in the [Department of Astronomy and Astrophysics](https://astrophysics.uchicago.edu/).
 From 2017-2021 I was a [Hubble Fellow](http://www.stsci.edu/institute/smo/fellowships/hubble) and Carnegie Fellow at [Carnegie Observatories](http://obs.carnegiescience.edu/).
 I graduated in 2017 with a PhD in Physics from the Astrophysics division at MIT, advised by [Anna Frebel](http://web.mit.edu/physics/people/faculty/frebel_anna.html).
+I graduated from Stanford University in 2011 with a Physics BS (minor in CS) and in 2012 with a Statistics MS, specializing in applied statistics and learning methods.
 
 I grew up in the California Bay Area where I spent most of my time doing math and playing piano. 
-I graduated from Stanford University in 2011 with a Physics BS (minor in CS) and in 2012 with a Statistics MS, specializing in applied statistics and learning methods.
-I really enjoy teaching, and at Stanford I taught many courses, including the first generation of the student initiated course [Practical Computing for Scientists](https://web.stanford.edu/class/physics91SI/). 
-I also sang and played piano for [Side by Side](http://sidebyside.stanford.edu/), and presided over the Stanford SPS.
-As a postdoc, I participated in the [PDP program by UCSC-ISEE](https://isee.ucsc.edu/programs/pdp/index.html).
-In my spare time, I enjoy making and eating food, board games, hiking, and classical music.
+This continued in college as I sang and played piano for [Side by Side](http://sidebyside.stanford.edu/).
+These days in my spare time, I enjoy making and eating food, board games, podcasts, wandering near the lake, classical music, and Taylor Swift.
 
 Photo credit: [Damien Jemison](https://www.damienjemison.com/)
 

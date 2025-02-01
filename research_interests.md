@@ -9,9 +9,12 @@ I study nearby stars and galaxies to understand the first stars and galaxies, th
 I am especially interested in the first stars and galaxies, which formed in the first billion years of our universe.
 This early epoch is one of the last unexplored frontiers in the history of our universe.
 
-My research interests can broadly be divided into four questions: What were the first stars like? What were the first galaxies like? Where are the relics of these systems in the Milky Way today? And how can we use these to learn about dark matter?
+My research interests can broadly be divided into four questions:
+What were the first stars like?
+What were the first galaxies like?
+Where are the relics of these systems in the Milky Way today?
+And how can we use these to learn about dark matter?
 I aim to answer these questions with a mix of observations (especially stellar spectroscopy) and theoretical models and simulations.
-
 
 ## The First Stars
 
@@ -24,9 +27,11 @@ The ashes of these stars are preserved in old ("metal-poor") stars that can be f
 
 Astronomers have found ~8 stars that are almost certainly direct descendants of Population III stars (plus several dozen more ambiguous cases).
 I've helped chase down and study the origin of two of them ([Star 1](https://arxiv.org/abs/1507.01973), [Star 2](https://arxiv.org/abs/1810.01228)), and I continue to search for metal-poor (and maybe metal-free??) stars.
+As a recent illustration, we have found some signatures of early massive stars that should have collapsed to black holes but instead exploded as high energy hypernovae [](https://arxiv.org/abs/2401.02484).
+
 I also create models to study how long signatures of the first stars can be preserved ([paper](https://arxiv.org/abs/1508.06137), [some related code](https://github.com/alexji/SN_model); [another paper](https://arxiv.org/abs/1801.05044)).
 I have also looked at the transition between metal-free and metal-poor star formation ([paper](https://arxiv.org/abs/1307.2239), [code](https://github.com/alexji/dust)).
-As part of the [Caterpillar project](http://www.caterpillarproject.org), I run simulations that investigate how to trace relics of the first stars to the present day ([paper 1](https://arxiv.org/abs/1611.00759); [paper 2](https://arxiv.org/abs/1712.03967)).
+As part of the [Caterpillar project](http://www.caterpillarproject.org), I run simulations that investigate how to trace relics of the first stars to the present day ([paper 1](https://arxiv.org/abs/1611.00759); [paper 2](https://arxiv.org/abs/1712.03967)). We are now doing this in the Aeos simulations, modeling individual stars in cosmological contexts led by [Kaley Brauer](https://arxiv.org/abs/2410.16366) and [Jennifer Mead](https://arxiv.org/abs/2411.14209).
 
 ### Nucleosynthesis and the R-Process
 
@@ -43,8 +48,7 @@ and graduate student [Kaley Brauer](http://www.mit.edu/~kbrauer/) and I have sin
 One of the most spectacular astronomical discoveries of the 2010s was the [direct detection](https://arxiv.org/abs/1710.05443) of r-process elements made in a neutron star merger, coincident with a [gravitational wave signal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101).
 Such "multi-messenger" studies of the origin of the elements is a fascinating and rapidly growing area.
 With [Maria Drout](https://www.astro.utoronto.ca/~drout/) and [Terese Hansen](https://www.teresehansen.com/), I have made predictions for optical followup of neutron star mergers detected through gravitational waves ([paper](https://arxiv.org/abs/1905.01814)).
-With [Kaley Brauer](http://www.mit.edu/~kbrauer/), I have also made connections to alternate scenarios involving gamma ray bursts.
-
+With [Kaley Brauer](http://www.mit.edu/~kbrauer/), I have also made connections to alternate scenarios involving [gamma ray bursts](https://arxiv.org/abs/2010.15837).
 
 
 ## The First Galaxies
@@ -64,13 +68,15 @@ I'm one of the leaders in this area, having led studies on seven of these galaxi
 [Bootes II](https://arxiv.org/abs/1510.07632),
 [Grus I and Triangulum II](https://arxiv.org/abs/1809.02182),
 and [Carina II and III](https://arxiv.org/abs/1912.04963).
+We are now pushing down to even lower mass systems with only 100-1000 solar masses of stars,
+where it [remains unclear](https://arxiv.org/abs/2410.08276) whether they are the lowest mass galaxies or the first star clusters.
 
 
 
 ## Milky Way Assembly and Substructure
 
 Besides the dwarf galaxies, I am also broadly interested in the assembly history of our Milky Way galaxy, especially in understanding the systems that were destroyed to make up its stellar halo.
-I co-chair the Milky Way Halo Working group as part of [SDSS-V](https://www.sdss5.org/), where a primary goal is the chemical decomposition of the stellar halo into its component parts.
+I co-chair the Milky Way Halo and Galactic Genesis Working groups as part of [SDSS-V](https://www.sdss5.org/), where a primary goal is the chemical decomposition of the stellar halo into its component parts.
 This goal is really hard, so recently I have been especially intruiged by the slightly easier stellar streams, which are galaxies and star clusters that are still in the process of being tidally disrupted by the Milky Way.
 I lead the high-resolution abundance analysis for the [S5 Survey](https://s5collab.github.io/) ([paper](https://arxiv.org/abs/2008.07568)).
 
@@ -87,7 +93,7 @@ Because they form in the smallest dark matter halos, changing the mass of dark m
 Their relics in the Milky Way today may provide some of the most crucial information on "small-scale tensions" with the standard Cold Dark Matter model, e.g. their overall abundance and density profiles.
 This basic theme pervades much of my work on ultra-faint dwarf galaxies.
 
-More recently, the discovery of stellar streams opens new ways to understand the nature of dark matter, even dark matter halos too small to ever form stars ("dark subhalos").
+The discovery of stellar streams opens new ways to understand the nature of dark matter, even dark matter halos too small to ever form stars ("dark subhalos").
 With the [S5 Survey](https://s5collab.github.io/) we are obtaining observations of both [streams](https://arxiv.org/abs/2006.10763) and [disrupting dwarf galaxies](https://arxiv.org/abs/2008.07568)
 whose properties are sensitive to the presence of dark subhalos and the density profile of dark matter halos.
 
@@ -99,3 +105,5 @@ I am broadly interested in the technical aspects of stellar spectroscopy, includ
 With [Andy Casey](https://astrowizici.st/) and [Erika Holmbeck](https://eholmbeck.github.io/), I develop the interactive stellar abundance analysis tool [smhr](https://github.com/andycasey/smhr).
 I have derived a statistical framework to correctly propagate stellar parameter uncertainties and their correlated effect on stellar abundances ([paper](https://arxiv.org/abs/2008.07568), see Appendix B).
 With [Yuan-Sen Ting](https://www.sns.ias.edu/~ting/), I am exploring using machine-learning methods that will vastly speed up the analysis of stellar spectra and enable improved physics to be applied at large scale.
+These are all being integrated into [LESSPayne](https://github.com/alexji/LESSPayne) to enable rapid homogeneous analysis of high-resolution stellar spectra.
+We are also collaborating with [Rana Ezzeddine](https://ranaezzeddine.github.io/) and [Maria Bergemann](https://www2.mpia-hd.mpg.de/~bergemann/) to include improved physics calculations in large-scale spectroscopic surveys.
