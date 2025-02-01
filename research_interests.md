@@ -27,7 +27,7 @@ The ashes of these stars are preserved in old ("metal-poor") stars that can be f
 
 Astronomers have found ~8 stars that are almost certainly direct descendants of Population III stars (plus several dozen more ambiguous cases).
 I've helped chase down and study the origin of two of them ([Star 1](https://arxiv.org/abs/1507.01973), [Star 2](https://arxiv.org/abs/1810.01228)), and I continue to search for metal-poor (and maybe metal-free??) stars.
-As a recent illustration, we have found some signatures of early massive stars that should have collapsed to black holes but instead exploded as high energy hypernovae [](https://arxiv.org/abs/2401.02484).
+As a recent illustration, we have found some signatures of early massive stars that should have collapsed to black holes but instead exploded as high energy hypernovae ([link](https://arxiv.org/abs/2401.02484)).
 
 I also create models to study how long signatures of the first stars can be preserved ([paper](https://arxiv.org/abs/1508.06137), [some related code](https://github.com/alexji/SN_model); [another paper](https://arxiv.org/abs/1801.05044)).
 I have also looked at the transition between metal-free and metal-poor star formation ([paper](https://arxiv.org/abs/1307.2239), [code](https://github.com/alexji/dust)).
