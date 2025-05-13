@@ -18,7 +18,7 @@ A collection of articles from
 [ScienceAlert](https://www.sciencealert.com/ancient-gigantic-star-exploded-in-a-way-we-didnt-think-was-possible),
 [Science Reader](https://sciencereader.com/science-update-barbenheimer-star-quantum-effects-and-innovative-robots/),
 [Phys.org](https://phys.org/news/2024-01-discovery-unusual-star-picture-stars.html), and others.
-We were also featured as a [2024 Sloan Foundation Highlight](https://sloan.org/storage/app/media/files/annual_reports/2024_Highlights.pdf).
+We were also featured as a [Sloan Foundation Highlight](https://impact.sloan.org/the-13-billion-year-old-mystery-that-could-blow-up-our-understanding-of-the-birth-and-death-of-c9e11feaf9dd) ([full magazine](https://sloan.org/storage/app/media/files/annual_reports/2024_Highlights.pdf)).
 <!--
 [Interesting Engineering](https://interestingengineering.com/science/barbenheimer-study-finds-clues-of-ancient-explosion-in-an-extant-star),
 [IFLScience](https://www.iflscience.com/barbenheimer-star-loaded-with-heavy-metals-is-unlike-anything-scientists-have-seen-or-expected-72466),
