@@ -13,7 +13,7 @@ order: 4
 * [LESSPayne (under development)](https://github.com/alexji/LESSPayne)
 * [JINAbase](http://jinabase.pythonanywhere.com/)
 * [Placco Carbon Corrections](http://vplacco.pythonanywhere.com/)
-* NLTE grids by [Bergemann et al.](http://nlte.mpia.de/), [Lind et al.](http://www.inspect-stars.com/cp/application.py/), [Mashonkina et al.](http://spectrum.inasan.ru/nLTE/)
+* NLTE grids by [Bergemann et al.](http://nlte.mpia.de/), [Lind et al.](http://www.inspect-stars.com/), [Mashonkina et al.](http://spectrum.inasan.ru/nLTE/)
 * Atomic Data from [NIST](https://physics.nist.gov/PhysRefData/ASD/lines_form.html), [VALD](http://vald.astro.univie.ac.at/~vald3/php/vald.php) (requires registration), [Kurucz](http://kurucz.harvard.edu/linelists.html) (a version of this is being maintained [here](https://github.com/vmplacco/linemake) by Vini Placco, with a parallel version [maintained by me here](https://github.com/alexji/linemake).)
 
 ### Simulation analysis
