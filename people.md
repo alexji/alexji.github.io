@@ -16,17 +16,17 @@ order: 3
 
 ### Current Group Members at UChicago
 
-* [Ani Chiti](https://www.anichiti.space/) (Brinson Postdoctoral Fellow)
 * [Guilherme Limberg](https://guilimberg.github.io/) (KICP Postdoctoral Fellow)
 * [Samantha Usman](https://www.samusman.space/) (PhD student)
 * Alice Luna (PhD student)
 * [Pierre Thibodeaux](https://pierrethx.github.io/) (PhD student)
 * Daisy Bissonette (PhD student)
 * [Hillary Andales](https://hillaryandales.com/) (PhD student)
-* Jarvis Zhang (UChicago Undergrad Student)
+* Jarvis Zhang (UChicago MS Student)
 * Benjamin Cohen (UChicago Undergrad Student)
 * Ha Do (UChicago Undergrad Student)
 * Selenna Meijas-Torres (UChicago Undergrad Student)
+* Natalie Orrantia (UChicago Undergrad Student)
 
 We share group meetings with the [Survey Science Group](https://surveys.uchicago.edu/)
 
@@ -34,6 +34,7 @@ We share group meetings with the [Survey Science Group](https://surveys.uchicago
 
 ### Past Group Members
 * [Sanjana Curtis](https://sanjanacurtis.com/) (Postdoctoral Scholar -> Oregon State Faculty)
+* [Ani Chiti](https://www.anichiti.space/) (Brinson Postdoctoral Fellow -> Stanford)
 * Yupeng Yao (MS student)
 * Shuyu Wang (MS student)
 * Noah Geller (UChicago Undergrad)
@@ -42,7 +43,11 @@ We share group meetings with the [Survey Science Group](https://surveys.uchicago
 * Kaia Atzberger (OSU Undergrad)
 * Naomi Carl (ASU Undergrad)
 * Ananya Kaalva (UT Austin Undergrad)
-
+* Ale Ricci (UChicago Undergrad)
+* Martin Che (UChicago Undergrad)
+* Jasmin Mohammadi (UMD Undergrad)
+* Snehil Vidyarthy (UChicago Undergrad)
+* Rithika Tudmilla (UChicago Undergrad)
 
 
 [//]: # ### People 2020-2021
