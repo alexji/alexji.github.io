@@ -71,6 +71,7 @@ order: 4
 * [How to ask for recommendation letters](https://twitter.com/astroarianna/status/1582039372282486786?s=20&t=6dbH71gxMo3LR3SFCLE5bg)
 * [Writing effectively (video)](https://youtu.be/vtIzMaLkCaM)
 * [Six bad reasons to do an MD PhD (and a PhD too)](https://www.leahpierson.com/blog/six-bad-reasons-to-do-an-mdphd)
+* [How to choose your grad school (for CS but relevant everywhere)](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/)
 
 ### Career
 * [Finding Undergraduate Research Opportunities by Brandon Barker](https://astrobarker.github.io/undresearch.html)
