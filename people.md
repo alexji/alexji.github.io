@@ -17,7 +17,6 @@ order: 3
 ### Current Group Members at UChicago
 
 * [Guilherme Limberg](https://guilimberg.github.io/) (KICP Postdoctoral Fellow)
-* [Samantha Usman](https://www.samusman.space/) (PhD student)
 * Alice Luna (PhD student)
 * [Pierre Thibodeaux](https://pierrethx.github.io/) (PhD student)
 * Daisy Bissonette (PhD student)
@@ -33,6 +32,7 @@ We share group meetings with the [Survey Science Group](https://surveys.uchicago
 ![GroupEras](/img/eras.png)
 
 ### Past Group Members
+* [Samantha Usman](https://www.samusman.space/) (PhD student -> Colgate Visiting Faculty)
 * [Sanjana Curtis](https://sanjanacurtis.com/) (Postdoctoral Scholar -> Oregon State Faculty)
 * [Ani Chiti](https://www.anichiti.space/) (Brinson Postdoctoral Fellow -> Stanford)
 * Yupeng Yao (MS student)
