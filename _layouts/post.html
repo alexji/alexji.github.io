@@ -13,3 +13,26 @@ layout: default
   </article>
 
 </div>
+
+{% if page.tags %}
+<div class="post-tags">
+  <strong>Tags:</strong>
+  {% for tag in page.tags %}
+    <a href="/blog/#{{ tag }}" class="tag">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+  {% endfor %}
+</div>
+{% endif %}
+
+<style>
+.post-tags {
+  margin: 20px 0;
+  font-size: 0.9em;
+}
+.tag {
+  background: #eee;
+  padding: 3px 8px;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #333;
+}
+</style>
