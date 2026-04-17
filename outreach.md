@@ -15,7 +15,13 @@ A collection of articles from
 [UChicago](https://news.uchicago.edu/story/scientists-discover-most-chemically-pristine-star-yet-found-universe),
 [SDSS-V](https://www.sdss.org/ancient-immigrant/),
 [Carnegie Science](https://carnegiescience.edu/found-most-pristine-star-universe),
-and all over the internet.
+and several others.
+
+| ![LMC_to_MW-Text.jpg](img/LMC_to_MW-Text.jpg) | 
+|:--:| 
+| *Illustration of star going from LMC to Milky Way* |
+| *Image Credit: Navid Marvi/Carnegie Science* |
+
 
 # Spectacular Nucleosynthesis in Early Massive Stars
 We discovered a star with spectacular chemical composition in [SDSS-V](https://sdss.org/).
