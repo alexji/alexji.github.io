@@ -5,8 +5,20 @@ permalink: /outreach/
 order: 5
 ---
 
+# A Nearly Pristine Star from the Large Magellanic Cloud.
+We found a star in [SDSS-V](https://sdss.org) and showed that it has the most pristine chemical composition of any object known.
+It is an ancient immigrant, born in or near the Large Magellanic Cloud but now exists in the halo of the Milky Way.
+It is one of two known objects that is so metal poor that its formation requires the presence of a sprinkling of early dust grains.
+The star was found and followed up by UChicago undergraduate students in our Astronomy Field Course.
+The [paper](https://ui.adsabs.harvard.edu/abs/2026NatAs.tmp...67J/abstract) is out in Nature Astronomy ([PDF](files/nearly_pristine_star_ji2026.pdf)).
+A collection of articles from
+[UChicago](https://news.uchicago.edu/story/scientists-discover-most-chemically-pristine-star-yet-found-universe),
+[SDSS-V](https://www.sdss.org/ancient-immigrant/),
+[Carnegie Science](https://carnegiescience.edu/found-most-pristine-star-universe),
+and all over the internet.
+
 # Spectacular Nucleosynthesis in Early Massive Stars
-We recently published a discovery of a star with spectacular chemical composition, discovered in [SDSS-V](https://sdss.org/).
+We discovered a star with spectacular chemical composition in [SDSS-V](https://sdss.org/).
 It implies an explosion of an ancient star so massive that it should not have exploded, but we are at the limits of our theoretical supernova models.
 The [paper](https://ui.adsabs.harvard.edu/abs/2024ApJ...961L..41J/abstract) is out and you can see my AAS press conference on [YouTube](https://www.youtube.com/live/XCd662aOmy4?si=BtsCACfPFL2gsvDP&t=1972).
 A collection of articles from
